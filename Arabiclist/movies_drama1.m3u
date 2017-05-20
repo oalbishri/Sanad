@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:0,AR-OSN-Movies-Premiere-HD
+http://localhd.tv:8081/live/tvsat/youtube/1979.ts
+#EXTINF:0,OSN OSN Premier 2 HD
+http://localhd.tv:8081/live/tvsat/youtube/1446.ts
+#EXTINF:0,OSN Cinema 1
+http://localhd.tv:8081/live/tvsat/youtube/1465.ts
+#EXTINF:0,OSN Cinema 2
+http://localhd.tv:8081/live/tvsat/youtube/235.ts
+#EXTINF:0,:OSN movies HD
+http://localhd.tv:8081/live/tvsat/youtube/1469.ts
+#EXTINF:0,OSN Movies Action  2 HD
+http://localhd.tv:8081/live/tvsat/youtube/1458.ts
+#EXTINF:0,OSN Movies Box Office 1
+http://localhd.tv:8081/live/tvsat/youtube/1456.ts
+#EXTINF:0,OSN Movies Box Office 2
+http://localhd.tv:8081/live/tvsat/youtube/1455.ts
+#EXTINF:0,OSN Movies Box Office 3
+http://localhd.tv:8081/live/tvsat/youtube/1454.ts
+#EXTINF:0,OSN Movies Comedy
+http://localhd.tv:8081/live/tvsat/youtube/1453.ts
+#EXTINF:0,OSN Movies Drama
+http://localhd.tv:8081/live/tvsat/youtube/1452.ts
+#EXTINF:0,OSN Movies Festilval HD
+http://localhd.tv:8081/live/tvsat/youtube/1451.ts
+#EXTINF:0,OSN Movies star HD
+http://localhd.tv:8081/live/tvsat/youtube/1449.ts
+#EXTINF:0,OSN OSN Movies 2
+http://localhd.tv:8081/live/tvsat/youtube/1447.ts
+#EXTINF:0,ART AFLAM1
+http://localhd.tv:8081/live/tvsat/youtube/1327.ts
+#EXTINF:0,ART_AFLAM 2
+http://localhd.tv:8081/live/tvsat/youtube/1799.ts
+#EXTINF:0,ART_Aflam2
+http://localhd.tv:8081/live/tvsat/youtube/763.ts
+#EXTINF:0,AR : ART_CINEMA
+http://localhd.tv:8081/live/tvsat/youtube/1800.ts
+#EXTINF:0,ART_HEKAYAT 1
+http://localhd.tv:8081/live/tvsat/youtube/1779.ts
+#EXTINF:0,ART_HIKAYAT_HD
+http://localhd.tv:8081/live/tvsat/youtube/760.ts
+#EXTINF:0,Panorama-Comedy
+http://localhd.tv:8081/live/tvsat/youtube/2134.ts
+#EXTINF:0,STARCINEMA 1
+http://localhd.tv:8081/live/tvsat/youtube/2125.ts
+#EXTINF:0,Cairo Cinema
+http://localhd.tv:8081/live/tvsat/youtube/1833.ts
+#EXTINF:0,Nile Cinema
+http://localhd.tv:8081/live/tvsat/youtube/1823.ts
+http://localhd.tv:8081/live/tvsat/youtube/1866.ts
+#EXTINF:0,Dubai Zaman
+http://localhd.tv:8081/live/tvsat/youtube/1861.ts
+#EXTINF:0,Dubai ONE
+http://localhd.tv:8081/live/tvsat/youtube/1859.ts
+#EXTINF:0,Dubai  tv
+http://localhd.tv:8081/live/tvsat/youtube/2367.ts
+#EXTINF:0,AR-SyriaDrama
+http://localhd.tv:8081/live/tvsat/youtube/1985.ts
+#EXTINF:0,Cairo Drama
+http://localhd.tv:8081/live/tvsat/youtube/1832.ts
+#EXTINF:0,Nile Drama
+http://localhd.tv:8081/live/tvsat/youtube/1822.ts
+#EXTINF:0,CBC Drama 
+http://clientportal.link:8080/live/cran/cran/5763.ts
+#EXTINF:0,AR:LBC
+http://localhd.tv:8081/live/tvsat/youtube/1791.ts
+#EXTINF:0,Dubai Al Ola ARB
+http://clientportal.link:8080/live/cran/cran/7989.ts
+#EXTINF:0,Dubai One ARB
+http://clientportal.link:8080/live/cran/cran/7988.ts
+#EXTINF:0,Dubai Sport 1 ARB
+http://clientportal.link:8080/live/cran/cran/7992.ts
+#EXTINF:0,Dubai Sports 3 ARB
+http://clientportal.link:8080/live/cran/cran/15413.ts
+#EXTINF:0,Dubai TV ARB
+http://clientportal.link:8080/live/cran/cran/15398.ts
+#EXTINF:0,Dubai Zaman ARB
+http://clientportal.link:8080/live/cran/cran/6270.ts
+#EXTINF:0,Funoon ARB
+http://clientportal.link:8080/live/cran/cran/5777.ts
+#EXTINF:0,Funoon ARB
+http://clientportal.link:8080/live/downtown/downtown/5777.ts

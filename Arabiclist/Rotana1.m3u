@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:0,Rotana Aflam ARB
+http://clientportal.link:8080/live/downtown/downtown/5788.ts
+#EXTINF:0,Rotana Aflam HD ARB
+http://clientportal.link:8080/live/downtown/downtown/12891.ts
+#EXTINF:0,Rotana Cinema ARB
+http://clientportal.link:8080/live/downtown/downtown/5789.ts
+#EXTINF:0,Rotana Cinema HD ARB
+http://clientportal.link:8080/live/downtown/downtown/12890.ts
+#EXTINF:0,Rotana Classic ARB
+http://clientportal.link:8080/live/downtown/downtown/5790.ts
+#EXTINF:0,Rotana Classic HD ARB
+http://clientportal.link:8080/live/downtown/downtown/12889.ts
+#EXTINF:0,Rotana Clip ARB
+http://clientportal.link:8080/live/downtown/downtown/5791.ts
+#EXTINF:0,Rotana Khaliji ARB
+http://clientportal.link:8080/live/downtown/downtown/5792.ts
+#EXTINF:0,Rotana Khalijiah HD ARB
+http://clientportal.link:8080/live/downtown/downtown/12888.ts
+#EXTINF:0,Rotana Masriah HD ARB
+http://clientportal.link:8080/live/downtown/downtown/12887.ts
+#EXTINF:0,Rotana Masriya ARB
+http://clientportal.link:8080/live/downtown/downtown/5793.ts
+#EXTINF:0,Rotana Music ARB
+http://clientportal.link:8080/live/downtown/downtown/5794.ts
+#EXTINF:0,Rotana Music HD ARB
+http://clientportal.link:8080/live/downtown/downtown/12886.ts
+#EXTINF:0,AR_ROTANA_CINEMA
+http://www.q7t1.com:8000/live/dona/dona/15.ts
+#EXTINF:0,AR:Rotana
+http://localhd.tv:8081/live/tvsat/youtube/2161.ts
+#EXTINF:0,AR : ROTANA_MUSIKA
+http://localhd.tv:8081/live/tvsat/youtube/1772.ts
+#EXTINF:0,AR:ROTANA CLIP
+http://localhd.tv:8081/live/tvsat/youtube/1773.ts
+#EXTINF:0,AR:ROTANA_CLASSIC
+http://localhd.tv:8081/live/tvsat/youtube/1774.ts
+#EXTINF:0,AR:ROTANA_AFLAM
+http://localhd.tv:8081/live/tvsat/youtube/1783.ts
+#EXTINF:0,AR: ROTANA_MASRIYA
+http://localhd.tv:8081/live/tvsat/youtube/1339.ts
+#EXTINF:0,AR: ROTANA_KHALIJA
+http://localhd.tv:8081/live/tvsat/youtube/1340.ts
+#EXTINF:0,AR: ROTANA_CINEMA
+http://localhd.tv:8081/live/tvsat/youtube/1342.ts
+#EXTINF:0,Rotana Aflam ARB
+http://clientportal.link:8080/live/cran/cran/5788.ts
+#EXTINF:0,Rotana Aflam HD ARB
+http://clientportal.link:8080/live/cran/cran/12891.ts
+#EXTINF:0,Rotana Cinema ARB
+http://clientportal.link:8080/live/cran/cran/5789.ts
+#EXTINF:0,Rotana Cinema HD ARB
+http://clientportal.link:8080/live/cran/cran/12890.ts
+#EXTINF:0,Rotana Classic ARB
+http://clientportal.link:8080/live/cran/cran/5790.ts
+#EXTINF:0,Rotana Classic HD ARB
+http://clientportal.link:8080/live/cran/cran/12889.ts
+#EXTINF:0,Rotana Clip ARB
+http://clientportal.link:8080/live/cran/cran/5791.ts
+#EXTINF:0,Rotana Khaliji ARB
+http://clientportal.link:8080/live/cran/cran/5792.ts
+#EXTINF:0,Rotana Khalijiah HD ARB
+http://clientportal.link:8080/live/cran/cran/12888.ts
+#EXTINF:0,Rotana Masriah HD ARB
+http://clientportal.link:8080/live/cran/cran/12887.ts
+#EXTINF:0,Rotana Masriya ARB
+http://clientportal.link:8080/live/cran/cran/5793.ts
+#EXTINF:0,Rotana Music ARB
+http://clientportal.link:8080/live/cran/cran/5794.ts
+#EXTINF:0,Rotana Music HD ARB
+http://clientportal.link:8080/live/cran/cran/12886.ts
