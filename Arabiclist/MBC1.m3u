@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:0,OSN MBC Drama HD
+http://localhd.tv:8081/live/tvsat/youtube/1459.ts
+#EXTINF:0,MBC 3 hd
+http://localhd.tv:8081/live/tvsat/youtube/1789.ts
+#EXTINF:0,MBC 1 HD
+http://localhd.tv:8081/live/tvsat/youtube/1788.ts
+#EXTINF:0,MBC 2 HD
+http://localhd.tv:8081/live/tvsat/youtube/1333.ts
+#EXTINF:0,MBC 4 hd
+http://localhd.tv:8081/live/tvsat/youtube/755.ts
+#EXTINF:0,MBC ACTION
+http://localhd.tv:8081/live/tvsat/youtube/756.ts
+#EXTINF:0,MBC MAX hd
+http://localhd.tv:8081/live/tvsat/youtube/1776.ts
+#EXTINF:0,AR : MBC_MASR 2
+http://localhd.tv:8081/live/tvsat/youtube/1777.ts
+#EXTINF:0,MBC_MASR
+http://localhd.tv:8081/live/tvsat/youtube/1778.ts
+#EXTINF:0,MBC DRAMA HD
+http://localhd.tv:8081/live/tvsat/youtube/1787.ts
+#EXTINF:0,MBC_BOLLYWOOD
+http://localhd.tv:8081/live/tvsat/youtube/758.ts
+#EXTINF:0,MBC 1 
+http://clientportal.link:8080/live/cran/cran/5707.ts
+#EXTINF:0,MBC 1 HD 
+http://clientportal.link:8080/live/cran/cran/12882.ts
+#EXTINF:0,MBC 2 
+http://clientportal.link:8080/live/cran/cran/5708.ts
+#EXTINF:0,MBC 2 HD 
+http://clientportal.link:8080/live/cran/cran/12881.ts
+#EXTINF:0,MBC 3 
+http://clientportal.link:8080/live/cran/cran/5709.ts
+#EXTINF:0,MBC 3 HD 
+http://clientportal.link:8080/live/cran/cran/12880.ts
+#EXTINF:0,MBC 4 
+http://clientportal.link:8080/live/cran/cran/5710.ts
+#EXTINF:0,MBC 4 HD 
+http://clientportal.link:8080/live/cran/cran/12879.ts
+#EXTINF:0,MBC Action 
+http://clientportal.link:8080/live/cran/cran/5713.ts
+#EXTINF:0,MBC Action HD 
+http://clientportal.link:8080/live/cran/cran/12885.ts
+#EXTINF:0,MBC Bollywood 
+http://clientportal.link:8080/live/cran/cran/5716.ts
+#EXTINF:0,MBC Drama 
+http://clientportal.link:8080/live/cran/cran/5714.ts
+#EXTINF:0,MBC Drama HD 
+http://clientportal.link:8080/live/cran/cran/12884.ts
+#EXTINF:0,MBC MAX HD 
+http://clientportal.link:8080/live/cran/cran/12883.ts
+#EXTINF:0,MBC Masr 1 
+http://clientportal.link:8080/live/cran/cran/5712.ts
+#EXTINF:0,MBC Masr 2 
+http://clientportal.link:8080/live/cran/cran/5715.ts
+#EXTINF:0,MBC Max 
+http://clientportal.link:8080/live/cran/cran/5711.ts
+#EXTINF:0,MBC Pro 1 HD 
+http://clientportal.link:8080/live/cran/cran/5718.ts
+#EXTINF:0,MBC Pro 2 HD 
+http://clientportal.link:8080/live/cran/cran/5717.ts
+#EXTINF:0,MBC Pro 3 HD 
+http://clientportal.link:8080/live/cran/cran/5723.ts
+#EXTINF:0,MBC Pro Sport 3 
+http://clientportal.link:8080/live/cran/cran/15122.ts
+#EXTINF:0,MBC Pro Sport 4 
+http://clientportal.link:8080/live/cran/cran/15123.ts
+#EXTINF:15,MBC Pro Sports 1 
+http://clientportal.link:8080/live/cran/cran/15120.ts
+#EXTINF:15,MBC Pro Sports 2 
+http://clientportal.link:8080/live/cran/cran/15121.ts
