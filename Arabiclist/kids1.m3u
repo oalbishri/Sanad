@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:15,? Kids ?
+http://clientportal.link:8080/live/cran/cran/16373.ts
+#EXTINF:0,AR:KIDs_MODY_KIDS
+http://localhd.tv:8081/live/tvsat/youtube/2200.ts
+#EXTINF:0,AR:  Baraeem
+http://localhd.tv:8081/live/tvsat/youtube/1896.ts
+#EXTINF:0,Ajyal ARB
+http://clientportal.link:8080/live/downtown/downtown/8049.ts
+#EXTINF:0,AR_AJYAL
+http://www.q7t1.com:8000/live/dona/dona/185.ts
+#EXTINF:0,Ajyal ARB
+http://clientportal.link:8080/live/cran/cran/8049.ts
+#EXTINF:0,AR:OSN-MoviesKids-HD
+http://localhd.tv:8081/live/tvsat/youtube/1975.ts
+#EXTINF:0,AR:MICKEY CHANNEL
+http://localhd.tv:8081/live/tvsat/youtube/2162.ts
+#EXTINF:0,AR: MAJD KIDS
+http://localhd.tv:8081/live/tvsat/youtube/2441.ts
+#EXTINF:0,AR: TOYOR_AL-JANAH
+http://localhd.tv:8081/live/tvsat/youtube/1364.ts
+#EXTINF:0,AR:semsem
+http://localhd.tv:8081/live/tvsat/youtube/2158.ts
+#EXTINF:0,AR:Majid Kids TV
+http://localhd.tv:8081/live/tvsat/youtube/2163.ts
+#EXTINF:0, Baraeem
+http://localhd.tv:8081/live/tvsat/youtube/1896.ts
+#EXTINF:0,MICKEY CHANNEL
+http://localhd.tv:8081/live/tvsat/youtube/2162.ts
+#EXTINF:0,AR: MAJD KIDS
+http://localhd.tv:8081/live/tvsat/youtube/2441.ts
+#EXTINF:0,TOYOR_AL-JANAH
+http://localhd.tv:8081/live/tvsat/youtube/1364.ts
+#EXTINF:0,Majid Kids TV
+http://localhd.tv:8081/live/tvsat/youtube/2163.ts
+#EXTINF:0,AR_TOYOR_AL_JANAH
+http://www.q7t1.com:8000/live/dona/dona/137.ts

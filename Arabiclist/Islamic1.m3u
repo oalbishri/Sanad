@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:15,? Islamic ?
+http://clientportal.link:8080/live/cran/cran/16373.ts
+#EXTINF:0,Iqraa ARB
+http://clientportal.link:8080/live/cran/cran/6279.ts
+#EXTINF:0,AR:MAJD_QURAN
+http://localhd.tv:8081/live/tvsat/youtube/1790.ts
+#EXTINF:0,AR_AL_RESALAH
+http://www.q7t1.com:8000/live/dona/dona/72.ts
