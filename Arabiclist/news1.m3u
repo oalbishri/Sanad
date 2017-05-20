@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:15,== http://clientportal.link:8080/live/cran/cran/16373.ts
+#EXTINF:0,C:\Users\Osama\Downloads\kodi\IPTV-Arabic-Nilesat-PlayList-M3u-Channels-20-05-2017\﻿#EXTM3U
 #EXTINF:0,Al Jazeera Doc
 http://localhd.tv:8081/live/tvsat/youtube/745.ts
 #EXTINF:0,AlJazeera_Mubasher
@@ -14,3 +14,15 @@ http://localhd.tv:8081/live/tvsat/youtube/1894.ts
 http://clientportal.link:8080/live/cran/cran/13718.ts
 #EXTINF:0,Orient News 
 http://clientportal.link:8080/live/cran/cran/10400.ts
+#EXTINF:0,Al Arabiya Hadath ARB
+http://clientportal.link:8080/live/downtown/downtown/6290.ts
+#EXTINF:0,Al Hadath ARB
+http://clientportal.link:8080/live/downtown/downtown/10352.ts
+#EXTINF:0,AR_AL_JAZEERA
+http://www.q7t1.com:8000/live/dona/dona/27.ts
+#EXTINF:0,AR_ALMAYADEEN
+http://www.q7t1.com:8000/live/dona/dona/1830.ts
+#EXTINF:0,AR_AL_HADATH
+http://www.q7t1.com:8000/live/dona/dona/4125.ts
+#EXTINF:0,AR_ALJAZEERA_DOC
+http://www.q7t1.com:8000/live/dona/dona/150.ts
