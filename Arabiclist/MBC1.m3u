@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:0,BEIN: DREAMWORKS.HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7637.ts
-#EXTINF:0,BEIN: FOX.HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7632.ts
-#EXTINF:0,BEIN: AMC.HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7635.ts
-#EXTINF:0,BEIN.OUTDOOR.HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7631.ts
-#EXTINF:0,BEIN:SERIE.1.HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7665.ts
-#EXTINF:0,MYLOCAL: BEINAnimal=Planet
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7463.ts
-#EXTINF:0,MYLOCAL: BEINNatGeo=Wild
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7462.ts
-#EXTINF:0,My-HD-SEEVII ALOULA-HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7641.ts
-#EXTINF:0,My-HD-SEEVII BELINK-HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7640.ts
-#EXTINF:0,My-HD-SEEVII DRAMA-HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7639.ts
-#EXTINF:0,My-HD-SEEVII SHAMIYA-HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7638.ts
-#EXTINF:0,My HD FX HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7357.ts
 #EXTINF:0,OSN MBC VARIETY HD
 http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/6608.ts
 #EXTINF:0,VIP OSN: MBC 1 HD
@@ -39,10 +15,6 @@ http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5118.ts
 http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5119.ts
 #EXTINF:0,VIP OSN: MBC_2_HD
 http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5120.ts
-#EXTINF:0,ES: TELECINCO HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4975.ts
-#EXTINF:0,AL: Kino Comedy HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5264.ts
 #EXTINF:0,AR: Alarabya Alhadath
 http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7740.ts
 #EXTINF:0,AR:MBC Drama HD
@@ -71,47 +43,3 @@ http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1908.ts
 http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1907.ts
 #EXTINF:0,AR: Alarabiya
 http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1982.ts
-#EXTINF:0,AL: MEDINA LIVE
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/3040.ts
-#EXTINF:0,AL: KOHA TV
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/3019.ts
-#EXTINF:0,AL: RTSH HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/3727.ts
-#EXTINF:0,AL:RTV PRESHEVA
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4748.ts
-#EXTINF:0,AL:RTV BUJANOVC
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4749.ts
-#EXTINF:0,AL: TV Shenja
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4733.ts
-#EXTINF:0,AL: TV Elbasani
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4736.ts
-#EXTINF:0,AL: TV DUGAGJINI
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4738.ts
-#EXTINF:0,AL: TV CM Besa Berlin
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4740.ts
-#EXTINF:0,AL: Tribuna TV
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4741.ts
-#EXTINF:0,AL: Folk
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4743.ts
-#EXTINF:0,AL: Peace TV Shqip
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4729.ts
-#EXTINF:0,AL: Muse
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4752.ts
-#EXTINF:0,AL: Lexo Tv
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4731.ts
-#EXTINF:0,AL: Club TV
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4747.ts
-#EXTINF:0,AL: Click
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4753.ts
-#EXTINF:0,AL: ALB POPULLOR 21
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4750.ts
-#EXTINF:0,AL: Alb Humor 2
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4745.ts
-#EXTINF:0,AL: Alb Humor 1
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4746.ts
-#EXTINF:0,AL: ALB HITS
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4751.ts
-#EXTINF:0,AL: MY MUSIC
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/3035.ts
-#EXTINF:0,AL: Music AL
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/3036.ts
