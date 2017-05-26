@@ -1,28 +1,23 @@
 #EXTM3U
-#EXTINF:0,C:\Users\Osama\Downloads\kodi\IPTV-Arabic-Nilesat-PlayList-M3u-Channels-20-05-2017\﻿#EXTM3U
-#EXTINF:0,Al Jazeera Doc
-http://localhd.tv:8081/live/tvsat/youtube/745.ts
-#EXTINF:0,AlJazeera_Mubasher
-http://localhd.tv:8081/live/tvsat/youtube/2132.ts
-#EXTINF:0,sky news arabia
-http://localhd.tv:8081/live/tvsat/youtube/2358.ts
-#EXTINF:0,france 24
-http://localhd.tv:8081/live/tvsat/youtube/1893.ts
-#EXTINF:0,BBC
-http://localhd.tv:8081/live/tvsat/youtube/1894.ts
-#EXTINF:0,OSN Fox News HD 
-http://clientportal.link:8080/live/cran/cran/13718.ts
-#EXTINF:0,Orient News 
-http://clientportal.link:8080/live/cran/cran/10400.ts
-#EXTINF:0,Al Arabiya Hadath ARB
-http://clientportal.link:8080/live/downtown/downtown/6290.ts
-#EXTINF:0,Al Hadath ARB
-http://clientportal.link:8080/live/downtown/downtown/10352.ts
-#EXTINF:0,AR_AL_JAZEERA
-http://www.q7t1.com:8000/live/dona/dona/27.ts
-#EXTINF:0,AR_ALMAYADEEN
-http://www.q7t1.com:8000/live/dona/dona/1830.ts
-#EXTINF:0,AR_AL_HADATH
-http://www.q7t1.com:8000/live/dona/dona/4125.ts
-#EXTINF:0,AR_ALJAZEERA_DOC
-http://www.q7t1.com:8000/live/dona/dona/150.ts
+#EXTINF:0,AR: AL SHARQIA NEWS
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2946.ts
+#EXTINF:0,AR: AL HURRA IRAQ
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2948.ts
+#EXTINF:0,AR: Aljazeera-Mubasher
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1981.ts
+#EXTINF:0,AR :  ALJAZEERA DOCU
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7741.ts
+#EXTINF:0,AR:  AL JAZEERA NEWS
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7742.ts
+#EXTINF:0,AR: Alarabya Alhadath
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7740.ts
+#EXTINF:0,AR: BBC.ARABIC
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1923.ts
+#EXTINF:0,AR: BBC-News
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1984.ts
+#EXTINF:0,AR: BBC-Arabia
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1983.ts
+#EXTINF:0,AR: Aljazeera
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1980.ts
+#EXTINF:0,AR: Alarabiya
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1982.ts
