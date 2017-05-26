@@ -1,53 +1,157 @@
 #EXTM3U
-#EXTINF:0,BEIN Sports 1 HD
-http://localhd.tv:8081/live/tvsat/youtube/281.ts
-#EXTINF:0,BEIN Sports 2 HD
-http://localhd.tv:8081/live/tvsat/youtube/282.ts
-#EXTINF:0,BEIN Sports 3 HD
-http://localhd.tv:8081/live/tvsat/youtube/283.ts
-#EXTINF:0,BEIN Sports 5 HD
-http://localhd.tv:8081/live/tvsat/youtube/351.ts
-#EXTINF:0,BEIN Sports 6 HD
-http://localhd.tv:8081/live/tvsat/youtube/353.ts
-#EXTINF:0,AR -- BeinHD Sports HD7
-http://localhd.tv:8081/live/tvsat/youtube/885.ts
-#EXTINF:0,AR -- BeinHD Sports HD8
-http://localhd.tv:8081/live/tvsat/youtube/884.ts
-#EXTINF:0,BEIN Sports 9 HD
-http://localhd.tv:8081/live/tvsat/youtube/356.ts
-#EXTINF:0,BEIN Sports 10 HD
-http://localhd.tv:8081/live/tvsat/youtube/352.ts
-#EXTINF:0,BEIN SPORT 11 HD
-http://localhd.tv:8081/live/tvsat/youtube/1492.ts
-#EXTINF:0,AR : beINSport 12 HD
-http://localhd.tv:8081/live/tvsat/youtube/1493.ts
-#EXTINF:0,MBC Pro 1 HD 
-http://clientportal.link:8080/live/cran/cran/5718.ts
-#EXTINF:0,MBC Pro 2 HD 
-http://clientportal.link:8080/live/cran/cran/5717.ts
-#EXTINF:0,MBC Pro 3 HD 
-http://clientportal.link:8080/live/cran/cran/5723.ts
-#EXTINF:0,ABU DHABI SPORT 2
-http://localhd.tv:8081/live/tvsat/youtube/1869.ts
-#EXTINF:0,Dubai Sports 4
-http://localhd.tv:8081/live/tvsat/youtube/2194.ts
-#EXTINF:0,OSN SPORTS 1HD
-http://localhd.tv:8081/live/tvsat/youtube/2437.ts
-#EXTINF:0,OSN SPORTS2 HD
-http://localhd.tv:8081/live/tvsat/youtube/1445.ts
-#EXTINF:0,OSN SPORTS 3HD
-http://localhd.tv:8081/live/tvsat/youtube/2438.ts
-#EXTINF:0,OSN SPORTS 4HD
-http://localhd.tv:8081/live/tvsat/youtube/2439.ts
-#EXTINF:0,OSN WWE Fight
-http://localhd.tv:8081/live/tvsat/youtube/2122.ts
-#EXTINF:0,Dubai Racing
-http://localhd.tv:8081/live/tvsat/youtube/2156.ts
-#EXTINF:0,Nile Sport
-http://localhd.tv:8081/live/tvsat/youtube/1821.ts
-#EXTINF:0,Saudi Sports
-http://pro213.com/live/bannour406/w1f9m3/2806.ts
-#EXTINF:0,Al Kass Sport 1 HD 
-http://clientportal.link:8080/live/cran/cran/6282.ts
-#EXTINF:15,Al Kass Sport 2 HD 
-http://clientportal.link:8080/live/cran/cran/6283.ts
+#EXTINF:0,BeinSports1
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/6616.ts
+#EXTINF:0,BeinSports2
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/6617.ts
+#EXTINF:0,BeinSports3
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/6618.ts
+#EXTINF:0,BeinSports4
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/6619.ts
+#EXTINF:0,BeinSports5
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/6620.ts
+#EXTINF:0,BeinSports6
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/6621.ts
+#EXTINF:0,BeinSports7
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/6622.ts
+#EXTINF:0,BeinSports8
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/6623.ts
+#EXTINF:0,BeinSports9
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7338.ts
+#EXTINF:0,Beinsport 10
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7359.ts
+#EXTINF:0,Beinsport 11
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7342.ts
+#EXTINF:0,Beinsport 12
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7343.ts
+#EXTINF:0,Beinsport 13
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7344.ts
+#EXTINF:0,Beinsport 14
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7345.ts
+#EXTINF:0,OSN LIVE Sport 1 HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7779.ts
+#EXTINF:0,OSN LIVE Sport 2HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7780.ts
+#EXTINF:0,OSN LIVE Sport 3HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7781.ts
+#EXTINF:0,OSN LIVE Sport 4HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7782.ts
+#EXTINF:0,AR: VIP MBC PRO SPORTS 4
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5202.ts
+#EXTINF:0,VIP| MBC PRO SPORT 3 HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/6609.ts
+#EXTINF:0,VIP| OSN CRIKET HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5332.ts
+#EXTINF:0,VIP| AD Sport 1HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5475.ts
+#EXTINF:0,VIP| AD Sport 2HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5474.ts
+#EXTINF:0,VIP| OSN  Ad Sport 3 HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5472.ts
+#EXTINF:0,VIP| OSN  Ad Sport 4 HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5471.ts
+#EXTINF:0,VIP OSN: adsports4
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4980.ts
+#EXTINF:0,VIP| OSN  Ad Sport 5 HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5470.ts
+#EXTINF:0,VIP OSN: adsports5
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4979.ts
+#EXTINF:0,VIP OSN: adsports6
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4978.ts
+#EXTINF:0,VIP| OSN wwe HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4869.ts
+#EXTINF:0,VIP OSN: MBC Pro Sports 1 HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5113.ts
+#EXTINF:0,VIP OSN: MBC Pro Sports 2 HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5112.ts
+#EXTINF:0,VIP IL: YES SPORT2 HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4927.ts
+#EXTINF:0,VIP IL: YES SPORT1 HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4926.ts
+#EXTINF:0,BEIN SPORT HD2
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1057.ts
+#EXTINF:0,BEIN SPORT HD1
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1064.ts
+#EXTINF:0,BEIN SPORT HD3
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1056.ts
+#EXTINF:0,BEIN SPORT HD4
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1055.ts
+#EXTINF:0,BEIN SPORT HD5
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1054.ts
+#EXTINF:0,BEIN SPORT HD6
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1053.ts
+#EXTINF:0,BEIN SPORT HD7
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1052.ts
+#EXTINF:0,BEIN SPORT HD8
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1051.ts
+#EXTINF:0,BEIN SPORT HD9
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1050.ts
+#EXTINF:0,BEIN SPORT HD10
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1063.ts
+#EXTINF:0,BEIN SPORT HD11
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1062.ts
+#EXTINF:0,BEIN SPORT HD12
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1061.ts
+#EXTINF:0,AR_BEIN_SPORTS_1HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2627.ts
+#EXTINF:0,AR: BEIN_SPORTS_2HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2628.ts
+#EXTINF:0,AR: BEIN_SPORTS_3HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2629.ts
+#EXTINF:0,AR: BEIN_SPORTS_4HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2630.ts
+#EXTINF:0,AR: BEIN_SPORTS_5HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2631.ts
+#EXTINF:0,AR: BEIN_SPORTS_6HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2632.ts
+#EXTINF:0,AR: BEIN_SPORTS_7HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2633.ts
+#EXTINF:0,AR: BEIN_SPORTS_8HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2634.ts
+#EXTINF:0,AR: BEIN_SPORTS_9HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2635.ts
+#EXTINF:0,AR: BEIN_SPORTS_10HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2636.ts
+#EXTINF:0,AR_BEIN_SPORTS_11HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2637.ts
+#EXTINF:0,AR_BEIN_SPORTS_12HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2638.ts
+#EXTINF:0,AR_BEIN_SPORTS_13HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2639.ts
+#EXTINF:0,AR-OSN-Abu-Dhabi-Sports-3HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2049.ts
+#EXTINF:0,AR-OSN-Abu-Dhabi-Sports-2HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2048.ts
+#EXTINF:0,AR: IRAQIA SPORT
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2941.ts
+#EXTINF:0,AR: MBC PRO SPORT 3
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1876.ts
+#EXTINF:0,AR: MBC PRO SPORT 2
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1875.ts
+#EXTINF:0,AR: MBC PRO SPORT 1
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1638.ts
+#EXTINF:0,AR: DUBAI SPORT HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2143.ts
+#EXTINF:0,AR: DUBAI SPORT 4
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2145.ts
+#EXTINF:0,AR: DUBAI SPORT 3
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/2144.ts
+#EXTINF:0,AR: DUBAI RACING
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1912.ts
+#EXTINF:0,AR: Alkass 4HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1891.ts
+#EXTINF:0,AR: Alkass 4 HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1930.ts
+#EXTINF:0,AR: Alkass 2 HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1911.ts
+#EXTINF:0,AR: Alkass 1 HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1910.ts
+#EXTINF:0,AR: AL KASS 4
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1877.ts
+#EXTINF:0,AR: AD-Sports2
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1925.ts
+#EXTINF:0,AR: AD-Sports1
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1924.ts
+#EXTINF:0,AR: NILE SPORT
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1897.ts
+#EXTINF:0,AL: Tele Sport
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/4742.ts
