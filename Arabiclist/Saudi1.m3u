@@ -1,21 +1,25 @@
 #EXTM3U
-#EXTINF:0,SAUDI_QURAN
-http://localhd.tv:8081/live/tvsat/youtube/1781.ts
-#EXTINF:0,Saudia Sunna
-http://localhd.tv:8081/live/tvsat/youtube/2130.ts
-#EXTINF:0,SAUDI  1
-http://localhd.tv:8081/live/tvsat/youtube/1782.ts
-#EXTINF:0,AR: SAUDI_QURAN
-http://localhd.tv:8081/live/tvsat/youtube/1781.ts
-#EXTINF:0,AR:Saudia Sunna
-http://localhd.tv:8081/live/tvsat/youtube/2130.ts
-#EXTINF:0,AR:SAUDI  1
-http://localhd.tv:8081/live/tvsat/youtube/1782.ts
-#EXTINF:0,SAUDI 1 ARB
-http://clientportal.link:8080/live/cran/cran/15406.ts
-#EXTINF:0,SAUDI-QURAN ARB
-http://clientportal.link:8080/live/cran/cran/15411.ts
-#EXTINF:0,AR: Saudi 1
-http://pro213.com/live/bannour406/w1f9m3/2719.ts
-#EXTINF:0,AR_AL_EKHBARIA_KSA
-http://www.q7t1.com:8000/live/dona/dona/141.ts
+#EXTINF:0,AL: MEDINA LIVE
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/3040.ts
+#EXTINF:0,AR: Ajyal TV
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7496.ts
+#EXTINF:0,AR: Al Maaref  TV
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7505.ts
+#EXTINF:0,AR: AL RESALAH
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/3774.ts
+#EXTINF:0,AR: Alarabiya
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1982.ts
+#EXTINF:0,AR: Alarabya Alhadath
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7740.ts
+#EXTINF:0,AR: SAUDI QURAN
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/3257.ts
+#EXTINF:0,AR: SAUDI SUNNEH
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/3256.ts
+#EXTINF:0,AR: SAUDIA EQTISADIYA HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5671.ts
+#EXTINF:0,AR: SAUDIA QURAN HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5667.ts
+#EXTINF:0,AR: SAUDIA THAQAFIYA HD
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5670.ts
+#EXTINF:0,AR: TOYOR_AL-JANAH
+http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1997.ts
