@@ -1,45 +1,4111 @@
 #EXTM3U
-#EXTINF:0,OSN MBC VARIETY HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/6608.ts
-#EXTINF:0,VIP OSN: MBC 1 HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5121.ts
-#EXTINF:0,VIP OSN: MBC_MAX_HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5114.ts
-#EXTINF:0,VIP OSN: MBC DRAMA HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5116.ts
-#EXTINF:0,VIP OSN: MBC ACTION HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5117.ts
-#EXTINF:0,VIP OSN: MBC_4_HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5118.ts
-#EXTINF:0,VIP OSN: MBC_3_HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5119.ts
-#EXTINF:0,VIP OSN: MBC_2_HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5120.ts
-#EXTINF:0,AR: Alarabya Alhadath
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/7740.ts
-#EXTINF:0,AR:MBC Drama HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/5201.ts
-#EXTINF:0,AR: MBC_BOLLYWOOD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1639.ts
-#EXTINF:0,AR: MBC_ACTION
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1640.ts
-#EXTINF:0,AR: MBC 3 KIDS
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/3233.ts
-#EXTINF:0,AR: MBC 1 HD
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/3232.ts
-#EXTINF:0,AR: MBC_4
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1641.ts
-#EXTINF:0,AR: MBC_3
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1642.ts
-#EXTINF:0,AR: MBC_2
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1643.ts
-#EXTINF:0,AR: MBC-Drama
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1644.ts
-#EXTINF:0,AR: MBC MAX
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1909.ts
-#EXTINF:0,AR: MBC MASR 2
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1908.ts
-#EXTINF:0,AR: MBC MASR 1
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1907.ts
-#EXTINF:0,AR: Alarabiya
-http://orbit-iptv.com:2500/live/jlNgqxBpCV/siKFOg0KkN/1982.ts
+#EXTINF:-1,MYLOCAL: BeinMovies1HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7467.ts
+#EXTINF:-1,MYLOCAL: BeinMovies2HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7466.ts
+#EXTINF:-1,MYLOCAL: BeinMovies3HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7465.ts
+#EXTINF:-1,MYLOCAL: BeinMovies4HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7464.ts
+#EXTINF:-1,MY LOCAL: BEIN STARMOVIES HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7633.ts
+#EXTINF:-1,MY LOCAL: .BEIN OUTDOOR.HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8383.ts
+#EXTINF:-1,MY LOCAL: BEIN DISCOVERY.LIFE HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8385.ts
+#EXTINF:-1,MY LOCAL: BEIN Discovery.MAX.HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8386.ts
+#EXTINF:-1,MY LOCAL: BEIN GOURMET HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8380.ts
+#EXTINF:-1,MY LOCAL: BEIN JEEM HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8384.ts
+#EXTINF:-1,MY LOCAL: .BEIN NAT GEO PEAPLE
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8382.ts
+#EXTINF:-1,MY LOCAL: BEIN  FOX MOVIES HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7632.ts
+#EXTINF:-1,MY LOCAL: BEIN DREAMWORKS HS
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7635.ts
+#EXTINF:-1,MY LOCAL: Bein TRAVEL
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7631.ts
+#EXTINF:-1,MY LOCAL: Bein SERIE  HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7665.ts
+#EXTINF:-1,MY LOCAL: Bein Discovery SC HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7468.ts
+#EXTINF:-1,MY LOCAL: Bein-Baraem-HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4834.ts
+#EXTINF:-1,MYLOCAL: BEIN Animal Planet
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7463.ts
+#EXTINF:-1,MYLOCAL:  BEIN Nat Geo Wild
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7462.ts
+#EXTINF:-1,MY LOCAL: BEIN FATAFEAT HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8381.ts
+#EXTINF:-1,BeinSports1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6616.ts
+#EXTINF:-1,BeinSports2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6617.ts
+#EXTINF:-1,BeinSports3
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6618.ts
+#EXTINF:-1,BeinSports4
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6619.ts
+#EXTINF:-1,BeinSports5
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6620.ts
+#EXTINF:-1,BeinSports6
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6621.ts
+#EXTINF:-1,BeinSports7
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6622.ts
+#EXTINF:-1,BeinSports8
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6623.ts
+#EXTINF:-1,BeinSports9
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7338.ts
+#EXTINF:-1,Beinsport 10
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7359.ts
+#EXTINF:-1,Beinsport 11
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7342.ts
+#EXTINF:-1,Beinsport 12
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7343.ts
+#EXTINF:-1,Beinsport 13
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7344.ts
+#EXTINF:-1,BeinSports 14
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11006.ts
+#EXTINF:-1,BeinSports 15
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11005.ts
+#EXTINF:-1,BeinSports 16
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11004.ts
+#EXTINF:-1,Bein NBA  HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/12958.ts
+#EXTINF:-1,BeinSport HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10559.ts
+#EXTINF:-1,Bein News HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8399.ts
+#EXTINF:-1,BEINSPORT 1 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11021.ts
+#EXTINF:-1,BEINSPORT 2 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11019.ts
+#EXTINF:-1,BEINSPORT 3 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11018.ts
+#EXTINF:-1,BEINSPORT 4 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11017.ts
+#EXTINF:-1,BEINSPORT 5 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11016.ts
+#EXTINF:-1,BEINSPORT 6 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11015.ts
+#EXTINF:-1,BEINSPORT 7 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11014.ts
+#EXTINF:-1,BEINSPORT 8 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11013.ts
+#EXTINF:-1,BEINSPORT 9 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11012.ts
+#EXTINF:-1,BEINSPORT 10 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11020.ts
+#EXTINF:-1,beiN SPORTs 1 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11011.ts
+#EXTINF:-1,beiN SPORTs 2 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11003.ts
+#EXTINF:-1,beiN SPORTs 3 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11002.ts
+#EXTINF:-1,beiN SPORTs 4 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11001.ts
+#EXTINF:-1,beiN SPORTs 5 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11000.ts
+#EXTINF:-1,beiN SPORTs 6 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10999.ts
+#EXTINF:-1,beiN SPORTs 7 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10998.ts
+#EXTINF:-1,beiN SPORTs 8 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10997.ts
+#EXTINF:-1,beiN SPORTs 9 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10996.ts
+#EXTINF:-1,beiN SPORTs 10 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11010.ts
+#EXTINF:-1,beiN SPORTs 11 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11009.ts
+#EXTINF:-1,beiN SPORTs 12 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11008.ts
+#EXTINF:-1,beiN SPORTs 13 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/11007.ts
+#EXTINF:-1,MBC Pro Sports 1 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5113.ts
+#EXTINF:-1,MBC Pro Sports 2 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5112.ts
+#EXTINF:-1,VIP| MBC PRO SPORTs 3 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6609.ts
+#EXTINF:-1,VIP| MBC PRO SPORTS 4
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5202.ts
+#EXTINF:-1,VIP| AD Sport 1HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5475.ts
+#EXTINF:-1,VIP| AD Sport 2HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5474.ts
+#EXTINF:-1,VIP| Ad Sport 3 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5472.ts
+#EXTINF:-1,VIP| Ad Sport 4 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5471.ts
+#EXTINF:-1,Ad Sport 5 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/12959.ts
+#EXTINF:-1,OSN YAHALA HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4885.ts
+#EXTINF:-1,OSN  YAHALA HD ola
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7278.ts
+#EXTINF:-1,OSN YAHALA CINEMA_HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4888.ts
+#EXTINF:-1,OSN MOVIES HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4889.ts
+#EXTINF:-1,OSN MOVIES ACTION HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4891.ts
+#EXTINF:-1,OSN MOVIE COMDEY HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4895.ts
+#EXTINF:-1,OSN MOVIES PREMIERE_HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4892.ts
+#EXTINF:-1,OSN MOVIE DRAMA HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4894.ts
+#EXTINF:-1,OSN MOVIE FAMILY HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6565.ts
+#EXTINF:-1,OSN Movies Kids HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7784.ts
+#EXTINF:-1,OSN MOVIES FESTIVAL HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4890.ts
+#EXTINF:-1,OSN Movies HD FIRST
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6587.ts
+#EXTINF:-1,OSN MOVIES COMEDY
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5805.ts
+#EXTINF:-1,OSN STAR WORLD HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4903.ts
+#EXTINF:-1,OSN DIZNEY XD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6575.ts
+#EXTINF:-1,OSN JIM JAM
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6558.ts
+#EXTINF:-1,OSN STAR MOVIES HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6532.ts
+#EXTINF:-1,OSN Nickelodeon HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6586.ts
+#EXTINF:-1,OSN DIZNEY JUNIOR
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6576.ts
+#EXTINF:-1,OSN NICK JR
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6541.ts
+#EXTINF:-1,OSN Disney Channels HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4870.ts
+#EXTINF:-1,OSN NaT Geo Peopel
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4878.ts
+#EXTINF:-1,OSN DISCOVERY SCIENCE HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4899.ts
+#EXTINF:-1,OSN NATIONAL GEOGRAPHIC
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6542.ts
+#EXTINF:-1,OSN DISCOVERY HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4854.ts
+#EXTINF:-1,OSN  SERIES First HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7778.ts
+#EXTINF:-1,OSN Series First Comedy HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7776.ts
+#EXTINF:-1,OSN MBC VARIETY HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6608.ts
+#EXTINF:-1,OSN MBC 1 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5121.ts
+#EXTINF:-1,OSN  MBC_MAX_HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5114.ts
+#EXTINF:-1,OSN MBC DRAMA HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5116.ts
+#EXTINF:-1,OSN MBC ACTION HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5117.ts
+#EXTINF:-1,OSN  MBC_4_HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5118.ts
+#EXTINF:-1,OSN MBC_3_HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5119.ts
+#EXTINF:-1,OSN  MBC 2 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5120.ts
+#EXTINF:-1,OSN Demand Extra
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6624.ts
+#EXTINF:-1,My-HD-SEEVII ALOULA-HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7641.ts
+#EXTINF:-1,My-HD-SEEVII BELINK-HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7640.ts
+#EXTINF:-1,My-HD-SEEVII DRAMA-HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7639.ts
+#EXTINF:-1,My-HD-SEEVII SHAMIYA-HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7638.ts
+#EXTINF:-1,OSN FINE LIVING
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6571.ts
+#EXTINF:-1,OSN FIRST HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6566.ts
+#EXTINF:-1,OSN HISTORY
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6561.ts
+#EXTINF:-1,OSN HISTORY2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6560.ts
+#EXTINF:-1,OSN MOVIES ACTION 2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6556.ts
+#EXTINF:-1,OSN NAT GEO WILD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6543.ts
+#EXTINF:-1,OSN: YAHALA-SHABAB
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1926.ts
+#EXTINF:-1,OSN TLC
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7214.ts
+#EXTINF:-1,OSN Travel HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7356.ts
+#EXTINF:-1,OSN  ITV_CHOICE
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7785.ts
+#EXTINF:-1,OSN ENTERTAINMENT! HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7786.ts
+#EXTINF:-1,OSN  Food Network
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5806.ts
+#EXTINF:-1,OSN SeeVii Shamiya HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5820.ts
+#EXTINF:-1,OSN Movies +2h HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5821.ts
+#EXTINF:-1,OSN Cinema1-leb
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5133.ts
+#EXTINF:-1,OSN Cinema2-leb
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5131.ts
+#EXTINF:-1,OSN SYFY HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4904.ts
+#EXTINF:-1,OSN  BBC First
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5460.ts
+#EXTINF:-1,OSN FIRST
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4913.ts
+#EXTINF:-1,OSN FAN
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4879.ts
+#EXTINF:-1,OSN DOCU BOX HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10966.ts
+#EXTINF:-1,OSN MTV Live HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10968.ts
+#EXTINF:-1,OSN Animal Planet HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4874.ts
+#EXTINF:-1,OSN FataFeat
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10479.ts
+#EXTINF:-1,OSN CNBC
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10477.ts
+#EXTINF:-1,OSN Crime & Investigation
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10478.ts
+#EXTINF:-1,OSN Fox News HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10482.ts
+#EXTINF:-1,OSN MusalSat
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10483.ts
+#EXTINF:-1,OSN BoxOffice 3
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4873.ts
+#EXTINF:-1,OSN BoxOffice 2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4872.ts
+#EXTINF:-1,OSN BoxOffice 1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4871.ts
+#EXTINF:-1,OSN  MBC DRAMA + HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6607.ts
+#EXTINF:-1,OSN YAS SPORT
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10969.ts
+#EXTINF:-1,OSN SPORTS 1 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10474.ts
+#EXTINF:-1,OSN SPORTS 2 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/10475.ts
+#EXTINF:-1,OSN LIVE Sport 4HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7782.ts
+#EXTINF:-1,OSN LIVE Sport 3HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7781.ts
+#EXTINF:-1,OSN CRIKET HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5332.ts
+#EXTINF:-1,OSN wwe HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4869.ts
+#EXTINF:-1,OSN  Rotana Cinema HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7351.ts
+#EXTINF:-1,OSN Rotana Classic HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7350.ts
+#EXTINF:-1,OSN Rotana Khalijia HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7349.ts
+#EXTINF:-1,OSN Rotana Masriya HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7348.ts
+#EXTINF:-1,OSNRotana Music HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7347.ts
+#EXTINF:-1,OSN Rotana Aflam HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7352.ts
+#EXTINF:-1,BEIN SPORT HD2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1057.ts
+#EXTINF:-1,BEIN SPORT HD1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1064.ts
+#EXTINF:-1,BEIN SPORT HD3
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1056.ts
+#EXTINF:-1,BEIN SPORT HD4
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1055.ts
+#EXTINF:-1,BEIN SPORT HD5
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1054.ts
+#EXTINF:-1,BEIN SPORT HD6
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1053.ts
+#EXTINF:-1,BEIN SPORT HD7
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1052.ts
+#EXTINF:-1,BEIN SPORT HD8
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1051.ts
+#EXTINF:-1,BEIN SPORT HD9
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1050.ts
+#EXTINF:-1,BEIN SPORT HD10
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1063.ts
+#EXTINF:-1,BEIN SPORT HD11
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1062.ts
+#EXTINF:-1,BEIN SPORT HD12
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1061.ts
+#EXTINF:-1,AR_BEIN_SPORTS_1HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2627.ts
+#EXTINF:-1,AR: BEIN_SPORTS_2HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2628.ts
+#EXTINF:-1,AR: BEIN_SPORTS_3HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2629.ts
+#EXTINF:-1,AR: BEIN_SPORTS_4HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2630.ts
+#EXTINF:-1,AR: BEIN_SPORTS_5HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2631.ts
+#EXTINF:-1,AR: BEIN_SPORTS_6HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2632.ts
+#EXTINF:-1,AR: BEIN_SPORTS_7HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2633.ts
+#EXTINF:-1,AR: BEIN_SPORTS_8HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2634.ts
+#EXTINF:-1,AR: BEIN_SPORTS_9HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2635.ts
+#EXTINF:-1,AR: BEIN_SPORTS_10HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2636.ts
+#EXTINF:-1,AR_BEIN_SPORTS_11HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2637.ts
+#EXTINF:-1,AR_BEIN_SPORTS_12HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2638.ts
+#EXTINF:-1,AR_BEIN_SPORTS_13HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2639.ts
+#EXTINF:-1,AR: BeinMovies 1HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1755.ts
+#EXTINF:-1,AR: BeinMovies 2HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1756.ts
+#EXTINF:-1,AR: BEIN MOVIES-3HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2617.ts
+#EXTINF:-1,AR: BeINMOVIES-4HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/4250.ts
+#EXTINF:-1,AR: OSN  ACTION
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1812.ts
+#EXTINF:-1,AR: OSN YAHAlA DRAMA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1804.ts
+#EXTINF:-1,AR-OSN-First-Comedy-HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2079.ts
+#EXTINF:-1,AR: OSN MOVIE Premiere
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1792.ts
+#EXTINF:-1,AR: OSN MOVIES Action
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1802.ts
+#EXTINF:-1,AR: OSN MOVIES COMEDY HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1885.ts
+#EXTINF:-1,AR: OSN_MOVIES HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1789.ts
+#EXTINF:-1,AR: OSN_MOVIES_FESTIVAL
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1787.ts
+#EXTINF:-1,AR: OSN_MOVIES_DRAMA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1788.ts
+#EXTINF:-1,AR: OSN On Demand
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1913.ts
+#EXTINF:-1,AR: OSN BOX OFFICE 1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1881.ts
+#EXTINF:-1,AR: OSN BOX OFFICE 3
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1884.ts
+#EXTINF:-1,AR: OSN ORBIT CINEMA1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1807.ts
+#EXTINF:-1,AR: OSN ORBIT CINEMA2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1806.ts
+#EXTINF:-1,AR: OSN_ON_DEMAND_EXTRA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2247.ts
+#EXTINF:-1,AR: OSN-On-Demand-Extra-HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2047.ts
+#EXTINF:-1,AR-OSN-ELYOM
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2077.ts
+#EXTINF:-1,AR: ABU DHABI SPORT 1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1878.ts
+#EXTINF:-1,AR: OSN WWE HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1880.ts
+#EXTINF:-1,AR-OSN-Abu-Dhabi-Sports-2HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2048.ts
+#EXTINF:-1,AR: OSN DISCOVERY HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1889.ts
+#EXTINF:-1,AR: OSN Animal Planet
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1931.ts
+#EXTINF:-1,❤❤❤❤❤ ARABIC CH ❤❤❤❤❤
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2290.ts
+#EXTINF:-1,AR: Abu Dhabi Emarat
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5341.ts
+#EXTINF:-1,AR: Abu Dhabi Drama
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5340.ts
+#EXTINF:-1,AR: Abu Dhabi
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5339.ts
+#EXTINF:-1,AR: Time-Tuxi
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5321.ts
+#EXTINF:-1,AR: TEN
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5322.ts
+#EXTINF:-1,AR: Melody Classic
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5330.ts
+#EXTINF:-1,AR: Al-Oula-MAROC
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5473.ts
+#EXTINF:-1,AR: SAUDIA EQTISADIYA HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5671.ts
+#EXTINF:-1,AR: SAUDIA QURAN HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5667.ts
+#EXTINF:-1,AR: SAUDIA THAQAFIYA HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5670.ts
+#EXTINF:-1,AL: Kino Comedy HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5264.ts
+#EXTINF:-1,AR: TAHA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5324.ts
+#EXTINF:-1,AR: Palestine-HQ
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5320.ts
+#EXTINF:-1,AR: MogaComedy
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5325.ts
+#EXTINF:-1,AR: Moga-Cinema
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5326.ts
+#EXTINF:-1,AR: CairoDrama
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5329.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5328.ts
+#EXTINF:-1,AR: Cairo-Aflam
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5327.ts
+#EXTINF:-1,AR: Kuwait-Alarabi
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5317.ts
+#EXTINF:-1,AR: Kuwait-2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5318.ts
+#EXTINF:-1,AR: Kuwait-1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5319.ts
+#EXTINF:-1,AR: ART AFLAM 1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5186.ts
+#EXTINF:-1,AR: ART AFLAM 2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5187.ts
+#EXTINF:-1,AR: MTV LEBANON
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3548.ts
+#EXTINF:-1,AR: TIME COMEDY
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5312.ts
+#EXTINF:-1,AR: TIME CINEMA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5313.ts
+#EXTINF:-1,AR: SPACE TOON
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5311.ts
+#EXTINF:-1,AR: ALYOUM
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5310.ts
+#EXTINF:-1,AR: ALJADID
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3549.ts
+#EXTINF:-1,AR: Cinema 9
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3254.ts
+#EXTINF:-1,AR: AL RESALAH
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3774.ts
+#EXTINF:-1,AR: AL NAHAR TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3775.ts
+#EXTINF:-1,AR: AL NAHAR SPORTS
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3777.ts
+#EXTINF:-1,AR: AL NAHAR DRAMA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3776.ts
+#EXTINF:-1,AR: AL NAHAR ALYAWM
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3778.ts
+#EXTINF:-1,AR: AL MANAR
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3779.ts
+#EXTINF:-1,AR: AL MAGHRABIA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3780.ts
+#EXTINF:-1,AR: AL MAGHARIBIATWO
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3781.ts
+#EXTINF:-1,AR: ====+IRAQ CHANNELS+=====
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2931.ts
+#EXTINF:-1,AR: SHARQIA KARBALA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2944.ts
+#EXTINF:-1,AR: SHARJAH
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2933.ts
+#EXTINF:-1,AR:  IRAQ tv
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2942.ts
+#EXTINF:-1,AR: NBN
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2938.ts
+#EXTINF:-1,AR: LEBANON
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2934.ts
+#EXTINF:-1,AR: LDC MOVIES
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2935.ts
+#EXTINF:-1,AR: LDC
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2937.ts
+#EXTINF:-1,AR: LBC
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2936.ts
+#EXTINF:-1,AR: IRAQIA SPORT
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2941.ts
+#EXTINF:-1,AR: IRAQ FUTURE
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2940.ts
+#EXTINF:-1,AR: ALMANAR
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2932.ts
+#EXTINF:-1,AR: ALBASRA IRAQ
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2943.ts
+#EXTINF:-1,AR: SAUDI SUNNEH
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3256.ts
+#EXTINF:-1,AR: CARTON NETWORK
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2939.ts
+#EXTINF:-1,AR: SAUDI QURAN
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3257.ts
+#EXTINF:-1,AR: SADA ALBALAD DRAMA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3255.ts
+#EXTINF:-1,AR: OTV LIBANON
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3258.ts
+#EXTINF:-1,AR: ALBAGHDADIA 1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2949.ts
+#EXTINF:-1,AR: AL SHARQIA TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2945.ts
+#EXTINF:-1,AR: AL SHARQIA NEWS
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2946.ts
+#EXTINF:-1,AR: AL HURRA IRAQ
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2948.ts
+#EXTINF:-1,AR: Tamazight
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2592.ts
+#EXTINF:-1,AR: SAMIRA-TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2594.ts
+#EXTINF:-1,AR: Assadissa
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2588.ts
+#EXTINF:-1,AR: Al_Maghribia
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2597.ts
+#EXTINF:-1,AR: Almaghribia-MAROC
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2593.ts
+#EXTINF:-1,AR: 2M-MAROC
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2590.ts
+#EXTINF:-1,AR: Medi 1 Sat
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2052.ts
+#EXTINF:-1,AR: Arriadia Maroc
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2051.ts
+#EXTINF:-1,AR: Aljazeera-Mubasher
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1981.ts
+#EXTINF:-1,AR:Samira TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2612.ts
+#EXTINF:-1,AR: KBCAlgeria
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2608.ts
+#EXTINF:-1,AR: Ajyal TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7496.ts
+#EXTINF:-1,AR: Al Fady TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7503.ts
+#EXTINF:-1,AR: Al Horreya TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7499.ts
+#EXTINF:-1,AR: Al Maaref  TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7505.ts
+#EXTINF:-1,AR: Alkarma TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7500.ts
+#EXTINF:-1,AR: Hewar Tunisi TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7495.ts
+#EXTINF:-1,AR: Miracle Channel
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7502.ts
+#EXTINF:-1,AR: Noursat TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7504.ts
+#EXTINF:-1,AR: Qanat Al Hayat
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7501.ts
+#EXTINF:-1,AR :  ALJAZEERA DOCU
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7741.ts
+#EXTINF:-1,AR:  AL JAZEERA NEWS
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7742.ts
+#EXTINF:-1,AR: AL RAY QATAR
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7737.ts
+#EXTINF:-1,AR: Alarabya Alhadath
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7740.ts
+#EXTINF:-1,AR: ALRAYAN QAT
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7738.ts
+#EXTINF:-1,AR: QATAR TV [QAT]
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7739.ts
+#EXTINF:-1,AR: SAT 7
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7498.ts
+#EXTINF:-1,AR: Sat 7 Kids
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7497.ts
+#EXTINF:-1,AR: Mekameleen 1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2605.ts
+#EXTINF:-1,AR: Aljadeed LIVE
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2610.ts
+#EXTINF:-1,AR:ELDJAZAIRIA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2606.ts
+#EXTINF:-1,AR:Echourouktv
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2611.ts
+#EXTINF:-1,AR:Dzair Tv
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2613.ts
+#EXTINF:-1,AR:Dzair News
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2614.ts
+#EXTINF:-1,AR: AlHaddaf
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2609.ts
+#EXTINF:-1,AR: ALGERIE 3
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2607.ts
+#EXTINF:-1,ARr: Zaitouna
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2604.ts
+#EXTINF:-1,ARr: NATIONAL1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2598.ts
+#EXTINF:-1,AR: Tounesna
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2603.ts
+#EXTINF:-1,AR: TELVZA TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2602.ts
+#EXTINF:-1,AR: NATIONAL2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2599.ts
+#EXTINF:-1,AR: FIRST.TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2600.ts
+#EXTINF:-1,AR: ETTOUNSIA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2601.ts
+#EXTINF:-1,AR: Hannibal TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2596.ts
+#EXTINF:-1,AR: NESSMATV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2595.ts
+#EXTINF:-1,AR: TNN
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2591.ts
+#EXTINF:-1,AR:Starworld
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2075.ts
+#EXTINF:-1,AR: YAS-SPORTS-HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2086.ts
+#EXTINF:-1,AR: TOYOR_AL-JANAH
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1997.ts
+#EXTINF:-1,AR: RT
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1985.ts
+#EXTINF:-1,AR: Rotana-Music
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1977.ts
+#EXTINF:-1,AR: Rotana-Khalijia
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1976.ts
+#EXTINF:-1,AR: Rotana Masriya
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1770.ts
+#EXTINF:-1,AR: Rotana Clip
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1768.ts
+#EXTINF:-1,AR: Rotana Classic
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1769.ts
+#EXTINF:-1,AR: Rotana Cinema
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1771.ts
+#EXTINF:-1,AR: Rotana
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1767.ts
+#EXTINF:-1,AR:Rotana Aflam
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5199.ts
+#EXTINF:-1,AR:MBC Drama HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5201.ts
+#EXTINF:-1,AR: ART Hekayat 2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/5200.ts
+#EXTINF:-1,AR: NATIONAL GEO ABUT DHABI
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1892.ts
+#EXTINF:-1,AR: MBC_BOLLYWOOD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1639.ts
+#EXTINF:-1,AR: MBC_ACTION
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1640.ts
+#EXTINF:-1,AR: ON TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3234.ts
+#EXTINF:-1,AR: MBC 3 KIDS
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3233.ts
+#EXTINF:-1,AR: MBC 1 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3232.ts
+#EXTINF:-1,AR: MBC_4
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1641.ts
+#EXTINF:-1,AR: MBC_3
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1642.ts
+#EXTINF:-1,AR: MBC_2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1643.ts
+#EXTINF:-1,AR: MBC-Drama
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1644.ts
+#EXTINF:-1,AR: MBC MAX
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1909.ts
+#EXTINF:-1,AR: MBC MASR 2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1908.ts
+#EXTINF:-1,AR: MBC MASR 1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1907.ts
+#EXTINF:-1,AR: France24
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1975.ts
+#EXTINF:-1,AR: DUBAI ZAMAN
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2141.ts
+#EXTINF:-1,AR: DUBAI TV
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1932.ts
+#EXTINF:-1,AR: DUBAI SPORT HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2143.ts
+#EXTINF:-1,AR: DUBAI SPORT 4
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2145.ts
+#EXTINF:-1,AR: DUBAI SPORT 3
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2144.ts
+#EXTINF:-1,AR: DUBAI RACING
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1912.ts
+#EXTINF:-1,AR: DUBAI ONE
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2140.ts
+#EXTINF:-1,AR: DUBAI DRAMA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2142.ts
+#EXTINF:-1,AR: CBC DRAMA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2083.ts
+#EXTINF:-1,AR: CBC-Extra
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2084.ts
+#EXTINF:-1,AR: Cartoon Network
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2050.ts
+#EXTINF:-1,AR: BBC.ARABIC
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1923.ts
+#EXTINF:-1,AR: BBC-News
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1984.ts
+#EXTINF:-1,AR: BBC-Arabia
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1983.ts
+#EXTINF:-1,AR: Art-Hekayat 1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1978.ts
+#EXTINF:-1,AR: ART-Cinema
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1979.ts
+#EXTINF:-1,AR: Alkass 4HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1891.ts
+#EXTINF:-1,AR: Alkass 4 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1930.ts
+#EXTINF:-1,AR: Alkass 2 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1911.ts
+#EXTINF:-1,AR: Alkass 1 HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1910.ts
+#EXTINF:-1,AR: Aljazeera
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1980.ts
+#EXTINF:-1,AR: Alarabiya
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1982.ts
+#EXTINF:-1,AR: AL KASS 4
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1877.ts
+#EXTINF:-1,AR: ADALEMARAT-HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2085.ts
+#EXTINF:-1,AR: AD-Sports2
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1925.ts
+#EXTINF:-1,AR: AD-Sports1
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1924.ts
+#EXTINF:-1,AR-ZEE ALWAN HD
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1905.ts
+#EXTINF:-1,AR-SYRIA DRAMA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1901.ts
+#EXTINF:-1,AR-SYRIA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1899.ts
+#EXTINF:-1,AR: SAMA DUBAI
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1898.ts
+#EXTINF:-1,AR: NILE SPORT
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1897.ts
+#EXTINF:-1,AR: NILE LIFE
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1896.ts
+#EXTINF:-1,AR-NILE DRAMA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1895.ts
+#EXTINF:-1,AR-NILE COMEDY
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1894.ts
+#EXTINF:-1,AR-NILE CINEMA
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/1893.ts
+#EXTINF:-1,[ AR ] Bein Sports 1 HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/19803.ts
+#EXTINF:-1,[ AR ] Bein Sports 10 HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/19794.ts
+#EXTINF:-1,[ AR ] Bein Sports 11 HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/19793.ts
+#EXTINF:-1,[ AR ] Bein Sports 12 HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/19792.ts
+#EXTINF:-1,[ AR ] Bein Sports 2 HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/19802.ts
+#EXTINF:-1,[ AR ] Bein Sports 3 HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/19801.ts
+#EXTINF:-1,[ AR ] Bein Sports 4 HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/19800.ts
+#EXTINF:-1,[ AR ] Bein Sports 5 HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/19799.ts
+#EXTINF:-1,[ AR ] Bein Sports 6 HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/19798.ts
+#EXTINF:-1,[ AR ] Bein Sports 7 HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/19797.ts
+#EXTINF:-1,[ AR ] Bein Sports 8 HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/19796.ts
+#EXTINF:-1,[ AR ] Bein Sports 9 HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/19795.ts
+#EXTINF:-1,[ AR: ]-| Cinema5
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28120.ts
+#EXTINF:-1,[ AR: ]-| Cinema6
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28119.ts
+#EXTINF:-1,[ AR: ]-7stars tv
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28118.ts
+#EXTINF:-1,[ AR: ]-aghani
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28117.ts
+#EXTINF:-1,[ AR: ]-Al Arabiya
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28116.ts
+#EXTINF:-1,[ AR: ]-Al Hadath
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28115.ts
+#EXTINF:-1,[ AR: ]-Al Hayat
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28114.ts
+#EXTINF:-1,[ AR: ]-Al Hayat 2
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28113.ts
+#EXTINF:-1,[ AR: ]-Al Hurra Iraq HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28112.ts
+#EXTINF:-1,[ AR: ]-al jadeed
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28111.ts
+#EXTINF:-1,[ AR: ]-al jazzera
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28110.ts
+#EXTINF:-1,[ AR: ]-Al Karma
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28109.ts
+#EXTINF:-1,[ AR: ]-Al Majd Kids
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28108.ts
+#EXTINF:-1,[ AR: ]-al manar
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28107.ts
+#EXTINF:-1,[ AR: ]-Al Manar HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28106.ts
+#EXTINF:-1,[ AR: ]-Al Manar MD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28105.ts
+#EXTINF:-1,[ AR: ]-Al Manar SD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28104.ts
+#EXTINF:-1,[ AR: ]-Al Masira
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28103.ts
+#EXTINF:-1,[ AR: ]-al masira tv
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28102.ts
+#EXTINF:-1,[ AR: ]-Al Nahar Noor
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28101.ts
+#EXTINF:-1,[ AR: ]-Al_Mayadeen
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28100.ts
+#EXTINF:-1,[ AR: ]-alaan tv
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28099.ts
+#EXTINF:-1,[ AR: ]-Alam Live
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28098.ts
+#EXTINF:-1,[ AR: ]-alarabia hadath
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28097.ts
+#EXTINF:-1,[ AR: ]-AlEkhbariyaSouria
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28096.ts
+#EXTINF:-1,[ AR: ]-Algeria 3
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28095.ts
+#EXTINF:-1,[ AR: ]-ALJADEED
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28094.ts
+#EXTINF:-1,[ AR: ]-Aljazeera EN HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28093.ts
+#EXTINF:-1,[ AR: ]-Aljazeera HQ
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28092.ts
+#EXTINF:-1,[ AR: ]-AlJazeera Kids
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28091.ts
+#EXTINF:-1,[ AR: ]-almaghribia
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28090.ts
+#EXTINF:-1,[ AR: ]-Almas TV 2
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28089.ts
+#EXTINF:-1,[ AR: ]-ALRAI TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28088.ts
+#EXTINF:-1,[ AR: ]-ann tv
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28087.ts
+#EXTINF:-1,[ AR: ]-Arriadia
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28086.ts
+#EXTINF:-1,[ AR: ]-Art Aflam 1
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28085.ts
+#EXTINF:-1,[ AR: ]-Art Aflam 2
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28084.ts
+#EXTINF:-1,[ AR: ]-Art Hekayat 1
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28083.ts
+#EXTINF:-1,[ AR: ]-Assadissa
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28082.ts
+#EXTINF:-1,[ AR: ]-BBC Arabia
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28081.ts
+#EXTINF:-1,[ AR: ]-BBC Arabia HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28080.ts
+#EXTINF:-1,[ AR: ]-CairoDrama
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28079.ts
+#EXTINF:-1,[ AR: ]-Canal ALGERIA TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28078.ts
+#EXTINF:-1,[ AR: ]-dubai noor
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28077.ts
+#EXTINF:-1,[ AR: ]-Dubai One
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28076.ts
+#EXTINF:-1,[ AR: ]-Dubai Racing
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28075.ts
+#EXTINF:-1,[ AR: ]-dubai tv
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28074.ts
+#EXTINF:-1,[ AR: ]-DZAIR NEWS
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28073.ts
+#EXTINF:-1,[ AR: ]-ENNAHAR TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28072.ts
+#EXTINF:-1,[ AR: ]-FutureTV(LB)
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28071.ts
+#EXTINF:-1,[ AR: ]-Ikhbariya Syr
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28070.ts
+#EXTINF:-1,[ AR: ]-iqraa
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28069.ts
+#EXTINF:-1,[ AR: ]-islam Channel UK
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28068.ts
+#EXTINF:-1,[ AR: ]-jeem
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28067.ts
+#EXTINF:-1,[ AR: ]-Jordan
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28066.ts
+#EXTINF:-1,[ AR: ]-jordan Noor
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28065.ts
+#EXTINF:-1,[ AR: ]-Kids BARAEM
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28064.ts
+#EXTINF:-1,[ AR: ]-KTV 2
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28063.ts
+#EXTINF:-1,[ AR: ]-Kuwait
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28062.ts
+#EXTINF:-1,[ AR: ]-LBC
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28061.ts
+#EXTINF:-1,[ AR: ]-Mbc Misr
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28060.ts
+#EXTINF:-1,[ AR: ]-MBC_action
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28059.ts
+#EXTINF:-1,[ AR: ]-Medi1Tv
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28058.ts
+#EXTINF:-1,[ AR: ]-Mekameleen
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28057.ts
+#EXTINF:-1,[ AR: ]-mekameleen tv
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28056.ts
+#EXTINF:-1,[ AR: ]-MEKKAH TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28055.ts
+#EXTINF:-1,[ AR: ]-Nabaa
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28054.ts
+#EXTINF:-1,[ AR: ]-national ad
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28053.ts
+#EXTINF:-1,[ AR: ]-NESMA TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28052.ts
+#EXTINF:-1,[ AR: ]-Nessma tv
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28051.ts
+#EXTINF:-1,[ AR: ]-Nile Cinema
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28050.ts
+#EXTINF:-1,[ AR: ]-Nile Comedie
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28049.ts
+#EXTINF:-1,[ AR: ]-Nile Drama
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28048.ts
+#EXTINF:-1,[ AR: ]-Nile Sport
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28047.ts
+#EXTINF:-1,[ AR: ]-Numidia_News
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28046.ts
+#EXTINF:-1,[ AR: ]-Oman
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28045.ts
+#EXTINF:-1,[ AR: ]-oman doc
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28044.ts
+#EXTINF:-1,[ AR: ]-oman mubashr
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28043.ts
+#EXTINF:-1,[ AR: ]-oman tv
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28042.ts
+#EXTINF:-1,[ AR: ]-Oman(OM)
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28041.ts
+#EXTINF:-1,[ AR: ]-Orient
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28040.ts
+#EXTINF:-1,[ AR: ]-PALASTINE TODAY
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28039.ts
+#EXTINF:-1,[ AR: ]-PEACE tv
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28038.ts
+#EXTINF:-1,[ AR: ]-Quran TV KSA
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28037.ts
+#EXTINF:-1,[ AR: ]-Russia_today
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28036.ts
+#EXTINF:-1,[ AR: ]-Sama Dubai
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28035.ts
+#EXTINF:-1,[ AR: ]-SAT7
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28034.ts
+#EXTINF:-1,[ AR: ]-Saudi 1
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28033.ts
+#EXTINF:-1,[ AR: ]-Saudi 2
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28032.ts
+#EXTINF:-1,[ AR: ]-Saudi 24 News
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28031.ts
+#EXTINF:-1,[ AR: ]-Saudi Anti Terrorism
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28030.ts
+#EXTINF:-1,[ AR: ]-Saudi Quran
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28029.ts
+#EXTINF:-1,[ AR: ]-saudi sport
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28028.ts
+#EXTINF:-1,[ AR: ]-selah
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28027.ts
+#EXTINF:-1,[ AR: ]-Sharjah HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28026.ts
+#EXTINF:-1,[ AR: ]-sky news
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28025.ts
+#EXTINF:-1,[ AR: ]-Sky News Arabiya
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28024.ts
+#EXTINF:-1,[ AR: ]-spacetoon
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28023.ts
+#EXTINF:-1,[ AR: ]-Sunnah TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28022.ts
+#EXTINF:-1,[ AR: ]-syria drama
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28021.ts
+#EXTINF:-1,[ AR: ]-Syria Education
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28020.ts
+#EXTINF:-1,[ AR: ]-syria Sama
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28019.ts
+#EXTINF:-1,[ AR: ]-SyriaSat3
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28018.ts
+#EXTINF:-1,[ AR: ]-tayba
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28017.ts
+#EXTINF:-1,[ AR: ]-Time Cinema
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28016.ts
+#EXTINF:-1,[ AR: ]-TimeComedy
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28015.ts
+#EXTINF:-1,[ AR: ]-wesal
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28014.ts
+#EXTINF:-1,[ AR: ]-Zee_Alwan
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28013.ts
+#EXTINF:-1,[ AR: ]-Zitouna
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28012.ts
+#EXTINF:-1,[ AR: ]: MBC 1
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28011.ts
+#EXTINF:-1,[ AR: ]: MBC 2
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28010.ts
+#EXTINF:-1,[ AR: ]: MBC 3
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28009.ts
+#EXTINF:-1,[ AR: ]: MBC 4
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28008.ts
+#EXTINF:-1,[ AR: ]: MBC Drama
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28007.ts
+#EXTINF:-1,[ AR: ]: MBC Masr2
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28006.ts
+#EXTINF:-1,[ AR: ]: Zee Aflam
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28005.ts
+#EXTINF:-1,[ AR: ]:Cartoon Network
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28004.ts
+#EXTINF:-1,[ AR: ]:CBC
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28003.ts
+#EXTINF:-1,[ AR: ]:CBC Drama
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28002.ts
+#EXTINF:-1,[ AR: ]:CBC SOFRA
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28001.ts
+#EXTINF:-1,[ AR: ]:CBC_2
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/28000.ts
+#EXTINF:-1,[ AR: ]:Cima
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27999.ts
+#EXTINF:-1,[ AR: ]:LBC_HD(LEBANON
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27998.ts
+#EXTINF:-1,[ AR: ]:MTV(LEBANON
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27997.ts
+#EXTINF:-1,[ AR: ]:NBN-TV(LEBANON
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27996.ts
+#EXTINF:-1,[ AR: ]:Rotana Cinema HD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27995.ts
+#EXTINF:-1,[ AR: ]:Rotana Clip
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27994.ts
+#EXTINF:-1,[ AR: ]:Rotana Khaleej
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27993.ts
+#EXTINF:-1,[ AR: ]:Rotana Massria
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27992.ts
+#EXTINF:-1,[ AR: ]:ROTANA-classic hd
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27991.ts
+#EXTINF:-1,[ AR: ]B-| Cinema1
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27990.ts
+#EXTINF:-1,[ AR: ]b-| Cinema2
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27989.ts
+#EXTINF:-1,[ AR: ]B-| Cinema3
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27988.ts
+#EXTINF:-1,[ AR: ]B-| Cinema4
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27987.ts
+#EXTINF:-1,[ AR: ]b-2m maroc
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27986.ts
+#EXTINF:-1,[ AR: ]b-Addounia TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27985.ts
+#EXTINF:-1,[ AR: ]B-AL HAYAT
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27984.ts
+#EXTINF:-1,[ AR: ]b-Al Hayat 2
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27983.ts
+#EXTINF:-1,[ AR: ]B-AL IKHBARIA SYR
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27982.ts
+#EXTINF:-1,[ AR: ]b-Al Kout
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27981.ts
+#EXTINF:-1,[ AR: ]b-Al Sharqiya News
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27980.ts
+#EXTINF:-1,[ AR: ]B-ALBILAD
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27979.ts
+#EXTINF:-1,[ AR: ]b-Alfady TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27978.ts
+#EXTINF:-1,[ AR: ]B-ALJAZEERA Doc
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27977.ts
+#EXTINF:-1,[ AR: ]b-almanar
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27976.ts
+#EXTINF:-1,[ AR: ]b-ANN News
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27975.ts
+#EXTINF:-1,[ AR: ]b-ART_Cinema
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27974.ts
+#EXTINF:-1,[ AR: ]b-BBC Arabia
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27973.ts
+#EXTINF:-1,[ AR: ]B-DUBAI ONE
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27972.ts
+#EXTINF:-1,[ AR: ]B-DUBAI TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27971.ts
+#EXTINF:-1,[ AR: ]b-DW news
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27970.ts
+#EXTINF:-1,[ AR: ]b-Halab Today TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27969.ts
+#EXTINF:-1,[ AR: ]b-Hekayat_2
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27968.ts
+#EXTINF:-1,[ AR: ]B-Kaifa TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27967.ts
+#EXTINF:-1,[ AR: ]B-LDC LB
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27966.ts
+#EXTINF:-1,[ AR: ]b-MBC proSPORT 3
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27965.ts
+#EXTINF:-1,[ AR: ]b-MBC PROSPORT1
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27964.ts
+#EXTINF:-1,[ AR: ]B-MBC PROSPORT2
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27963.ts
+#EXTINF:-1,[ AR: ]B-ND TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27962.ts
+#EXTINF:-1,[ AR: ]B-NOOR DUBAI
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27961.ts
+#EXTINF:-1,[ AR: ]b-Nour El-Sham
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27960.ts
+#EXTINF:-1,[ AR: ]B-OTV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27959.ts
+#EXTINF:-1,[ AR: ]b-Pezhvak Show
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27958.ts
+#EXTINF:-1,[ AR: ]B-SAMA DUBAI
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27957.ts
+#EXTINF:-1,[ AR: ]B-SIGMA TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27956.ts
+#EXTINF:-1,[ AR: ]b-Sky news arabia
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27955.ts
+#EXTINF:-1,[ AR: ]b-Syria Drama
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27954.ts
+#EXTINF:-1,[ AR: ]B-Syrian Educational TV
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27953.ts
+#EXTINF:-1,[ AR: ]B-SYRIAN NEWS
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27952.ts
+#EXTINF:-1,[ AR: ]b-TRT Arabic |
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/27951.ts
+#EXTINF:-1,ARABIAN: Al-hayat-1
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34154.ts
+#EXTINF:-1,ARABIAN: Al-hayat-2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34153.ts
+#EXTINF:-1,ARABIAN: Al-hayat-Musalsalat
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34152.ts
+#EXTINF:-1,ARABIAN: Al-masriya
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34155.ts
+#EXTINF:-1,ARABIAN: ALAHLYTV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34132.ts
+#EXTINF:-1,ARABIAN: ON-DRAMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34149.ts
+#EXTINF:-1,ARABIAN: ALNAHAR_DRAMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34150.ts
+#EXTINF:-1,ARABIAN: ALNAHAR1
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34151.ts
+#EXTINF:-1,ARABIAN: Alqahira_we_alnas
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34139.ts
+#EXTINF:-1,ARABIAN: Alqahira_we_alnas2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34138.ts
+#EXTINF:-1,ARABIAN: ASSEMA-Eygpt
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34137.ts
+#EXTINF:-1,ARABIAN: CTV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34129.ts
+#EXTINF:-1,ARABIAN: DMC-DRAMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34144.ts
+#EXTINF:-1,ARABIAN: DMC-HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34145.ts
+#EXTINF:-1,ARABIAN: dmc-sport
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34143.ts
+#EXTINF:-1,ARABIAN: E-on-tv
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34148.ts
+#EXTINF:-1,ARABIAN: Karma
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34127.ts
+#EXTINF:-1,ARABIAN: LTC
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34134.ts
+#EXTINF:-1,ARABIAN: Mazzika
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34131.ts
+#EXTINF:-1,ARABIAN: MEHWER
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34135.ts
+#EXTINF:-1,ARABIAN: Melody_Classic
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34133.ts
+#EXTINF:-1,ARABIAN: Miracle_TV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34126.ts
+#EXTINF:-1,ARABIAN: Onsport
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34146.ts
+#EXTINF:-1,ARABIAN: ONTV_EGYPT
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34147.ts
+#EXTINF:-1,ARABIAN: Sada_El_Balad_2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34141.ts
+#EXTINF:-1,ARABIAN: SADA_EL_BALADDRAMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34140.ts
+#EXTINF:-1,ARABIAN: SADAELBALAD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34142.ts
+#EXTINF:-1,ARABIAN: Sha3beyat
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34130.ts
+#EXTINF:-1,ARABIAN: TEN
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/34136.ts
+#EXTINF:-1,ARABIAN: AL NAHAR TV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/18611.ts
+#EXTINF:-1,ARABIAN:  AL MANAR
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16417.ts
+#EXTINF:-1,ARABIAN:  AL TOUNSIA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16415.ts
+#EXTINF:-1,ARABIAN: :NBN TV LEBANON
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16377.ts
+#EXTINF:-1,ARABIAN: ABU DHABI DARAMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16402.ts
+#EXTINF:-1,ARABIAN: ABU DHABI NATGEO
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16401.ts
+#EXTINF:-1,ARABIAN: ABU DHABI SPORT
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16419.ts
+#EXTINF:-1,ARABIAN: AD SPORTS 2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16400.ts
+#EXTINF:-1,ARABIAN: AJYAL KIDS
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16399.ts
+#EXTINF:-1,ARABIAN: AL ARABIA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16398.ts
+#EXTINF:-1,ARABIAN: AL MAJD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16418.ts
+#EXTINF:-1,ARABIAN: AL RESALAH
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16416.ts
+#EXTINF:-1,ARABIAN: ALGERIA TV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16313.ts
+#EXTINF:-1,ARABIAN: ALJANOUBIA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16300.ts
+#EXTINF:-1,ARABIAN: ALJAZEERA DOC HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16397.ts
+#EXTINF:-1,ARABIAN: ALJAZEERA HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16396.ts
+#EXTINF:-1,ARABIAN: ALWATAN ALGERIA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16312.ts
+#EXTINF:-1,ARABIAN: ART AFLAM 1
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16334.ts
+#EXTINF:-1,ARABIAN: ART AFLAM 2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16333.ts
+#EXTINF:-1,ARABIAN: ART CINEMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16332.ts
+#EXTINF:-1,ARABIAN: ART HEKAYAT 1
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16331.ts
+#EXTINF:-1,ARABIAN: ART HEKAYAT 2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16330.ts
+#EXTINF:-1,ARABIAN: BARAEM KIDS
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16311.ts
+#EXTINF:-1,ARABIAN: BBC ARABIC
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16335.ts
+#EXTINF:-1,ARABIAN: BeinHD_Movies1
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16286.ts
+#EXTINF:-1,ARABIAN: BeinHD_Movies2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16285.ts
+#EXTINF:-1,ARABIAN: CAIRO CINEMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16413.ts
+#EXTINF:-1,ARABIAN: CAIRO DRAMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16412.ts
+#EXTINF:-1,ARABIAN: CARTOON NETWORK
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16394.ts
+#EXTINF:-1,ARABIAN: CBC
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16393.ts
+#EXTINF:-1,ARABIAN: CBC Drama
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16392.ts
+#EXTINF:-1,ARABIAN: CBC EXTRA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16310.ts
+#EXTINF:-1,ARABIAN: CBC SOFRA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16309.ts
+#EXTINF:-1,ARABIAN: CBC TWO
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16289.ts
+#EXTINF:-1,ARABIAN: Cinema1
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16324.ts
+#EXTINF:-1,ARABIAN: Cinema2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16325.ts
+#EXTINF:-1,ARABIAN: Cinema3
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16326.ts
+#EXTINF:-1,ARABIAN: Cinema4
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16327.ts
+#EXTINF:-1,ARABIAN: Cinema5
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16328.ts
+#EXTINF:-1,ARABIAN: Cinema6
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16329.ts
+#EXTINF:-1,ARABIAN: DREAM
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16391.ts
+#EXTINF:-1,ARABIAN: DUBAI AL AOULA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16420.ts
+#EXTINF:-1,ARABIAN: DUBAI DRAMA HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16390.ts
+#EXTINF:-1,ARABIAN: DUBAI ONE HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16389.ts
+#EXTINF:-1,ARABIAN: DUBAI SPORT 1 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16305.ts
+#EXTINF:-1,ARABIAN: DUBAI TV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16388.ts
+#EXTINF:-1,ARABIAN: DUBAI ZAMAN
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16423.ts
+#EXTINF:-1,ARABIAN: DZAIR NEWS
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16376.ts
+#EXTINF:-1,ARABIAN: DZAIR TV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16386.ts
+#EXTINF:-1,ARABIAN: ECHOUROK TV (dz)
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16375.ts
+#EXTINF:-1,ARABIAN: ECHOUROUK BENNA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16421.ts
+#EXTINF:-1,ARABIAN: EL DJAZAIRIA (dz)
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16373.ts
+#EXTINF:-1,ARABIAN: ELDJAZAIRIA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16336.ts
+#EXTINF:-1,ARABIAN: ENNAHAR TV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16422.ts
+#EXTINF:-1,ARABIAN: FATAFEET
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16318.ts
+#EXTINF:-1,ARABIAN: FRANCE 24
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16288.ts
+#EXTINF:-1,ARABIAN: Funoon HD AR
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16304.ts
+#EXTINF:-1,ARABIAN: HANNIBAL
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16298.ts
+#EXTINF:-1,ARABIAN: IQRAA TV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16385.ts
+#EXTINF:-1,ARABIAN: KBC (dz)
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16370.ts
+#EXTINF:-1,ARABIAN: LBC HD LEBANON
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16384.ts
+#EXTINF:-1,ARABIAN: MA_2M
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16369.ts
+#EXTINF:-1,ARABIAN: MA_alaoula
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16368.ts
+#EXTINF:-1,ARABIAN: MA_almaghribia
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16367.ts
+#EXTINF:-1,ARABIAN: MA_Arryadia
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16366.ts
+#EXTINF:-1,ARABIAN: MA_Assadissa
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16365.ts
+#EXTINF:-1,ARABIAN: MA_Medi1Tv
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16364.ts
+#EXTINF:-1,ARABIAN: MBC ACTION
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16323.ts
+#EXTINF:-1,ARABIAN: MBC BOLLYWOOD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16383.ts
+#EXTINF:-1,ARABIAN: MBC Drama
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16322.ts
+#EXTINF:-1,ARABIAN: MBC MASR
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16380.ts
+#EXTINF:-1,ARABIAN: MBC MASR 2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16404.ts
+#EXTINF:-1,ARABIAN: MBC MAX
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16321.ts
+#EXTINF:-1,ARABIAN: MBC PRO SPORT 1
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16410.ts
+#EXTINF:-1,ARABIAN: MBC PRO SPORT 2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16409.ts
+#EXTINF:-1,ARABIAN: MBC PRO SPORT 3
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16408.ts
+#EXTINF:-1,ARABIAN: MBC1
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16407.ts
+#EXTINF:-1,ARABIAN: MBC2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16406.ts
+#EXTINF:-1,ARABIAN: MBC3
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16405.ts
+#EXTINF:-1,ARABIAN: MBC4
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16381.ts
+#EXTINF:-1,ARABIAN: MEKKAH TV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16379.ts
+#EXTINF:-1,ARABIAN: MTV LEBANON
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16378.ts
+#EXTINF:-1,ARABIAN: NESMA TV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16371.ts
+#EXTINF:-1,ARABIAN: NILE CINEMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16303.ts
+#EXTINF:-1,ARABIAN: NILE COMEDY
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16320.ts
+#EXTINF:-1,ARABIAN: NILE DRAMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16319.ts
+#EXTINF:-1,ARABIAN: NILE LIFE
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16316.ts
+#EXTINF:-1,ARABIAN: NILE SPORT
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16315.ts
+#EXTINF:-1,ARABIAN: OSN ANIMAL PLANET
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16362.ts
+#EXTINF:-1,ARABIAN: OSN CINEMA 1
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16354.ts
+#EXTINF:-1,ARABIAN: OSN CINEMA 2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16349.ts
+#EXTINF:-1,ARABIAN: OSN COMEDY
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16353.ts
+#EXTINF:-1,ARABIAN: OSN DISCOVERY SC HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16352.ts
+#EXTINF:-1,ARABIAN: OSN Mov Premier  2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16351.ts
+#EXTINF:-1,ARABIAN: OSN MOVIE KIDS HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16358.ts
+#EXTINF:-1,ARABIAN: OSN MOVIE PREMIERE HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16340.ts
+#EXTINF:-1,ARABIAN: OSN MOVIES ACTION 2 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16347.ts
+#EXTINF:-1,ARABIAN: OSN MOVIES ACTION HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16357.ts
+#EXTINF:-1,ARABIAN: OSN MOVIES DRAMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16361.ts
+#EXTINF:-1,ARABIAN: OSN MOVIES FESTIVAL
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16346.ts
+#EXTINF:-1,ARABIAN: OSN MOVIES FIRST
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16345.ts
+#EXTINF:-1,ARABIAN: OSN MOVIES FIRST MORE HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16350.ts
+#EXTINF:-1,ARABIAN: OSN MOVIES HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16360.ts
+#EXTINF:-1,ARABIAN: OSN MOVIES PREMIERE
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16339.ts
+#EXTINF:-1,ARABIAN: OSN NAT GEO WILD HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16359.ts
+#EXTINF:-1,ARABIAN: OSN SPORT 1
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16356.ts
+#EXTINF:-1,ARABIAN: OSN SPORT 2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16355.ts
+#EXTINF:-1,ARABIAN: OSN SPORT 3
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16342.ts
+#EXTINF:-1,ARABIAN: OSN SPORT 4
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16341.ts
+#EXTINF:-1,ARABIAN: OSN STAR MOVIES 1 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16338.ts
+#EXTINF:-1,ARABIAN: OSN STAR MOVIES 2 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16344.ts
+#EXTINF:-1,ARABIAN: OSN YA HALA DRAMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16337.ts
+#EXTINF:-1,ARABIAN: OSN YAHALA HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16343.ts
+#EXTINF:-1,ARABIAN: QURAN TV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16314.ts
+#EXTINF:-1,ARABIAN: SAMA DUBAI
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16299.ts
+#EXTINF:-1,ARABIAN: SAMA TV SYRIA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16295.ts
+#EXTINF:-1,ARABIAN: SAMIRA TV
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16372.ts
+#EXTINF:-1,ARABIAN: SAUDI QURAN
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16306.ts
+#EXTINF:-1,ARABIAN: SPACETOON
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16294.ts
+#EXTINF:-1,ARABIAN: SYRIA DRAMA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16293.ts
+#EXTINF:-1,ARABIAN: SYRIA NOUR
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16292.ts
+#EXTINF:-1,ARABIAN: Tamazight
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16363.ts
+#EXTINF:-1,ARABIAN: TOUNESNA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16291.ts
+#EXTINF:-1,ARABIAN: TOYOR AL JANAH
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16290.ts
+#EXTINF:-1,ARABIAN: TUNISIA 1
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16297.ts
+#EXTINF:-1,ARABIAN: TUNISIA 2
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16296.ts
+#EXTINF:-1,ARABIAN: ZEE AFLAM
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16403.ts
+#EXTINF:-1,ARABIAN: ZEE AWALAN
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/16287.ts
+#EXTINF:-1,Bein Sports Max 1 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/22545.ts
+#EXTINF:-1,Bein Sports Max 2 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/22546.ts
+#EXTINF:-1,ARABIAN: Bein 1 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/7040.ts
+#EXTINF:-1,ARABIAN: Bein 2 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/7041.ts
+#EXTINF:-1,ARABIAN: Bein 3 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/7042.ts
+#EXTINF:-1,ARABIAN: Bein 4 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/7043.ts
+#EXTINF:-1,ARABIAN: Bein 5 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/7044.ts
+#EXTINF:-1,ARABIAN: Bein 6 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/7045.ts
+#EXTINF:-1,ARABIAN: Bein 7 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/7046.ts
+#EXTINF:-1,ARABIAN: Bein 8 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/7047.ts
+#EXTINF:-1,ARABIAN: Bein 9 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/7048.ts
+#EXTINF:-1,ARABIAN: Bein 10 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/7049.ts
+#EXTINF:-1,ARABIAN: Bein 11 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/7050.ts
+#EXTINF:-1,ARABIAN: Bein 12 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/7051.ts
+#EXTINF:-1,ARABIAN: Bein 13 HD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/18383.ts
+#EXTINF:-1,ARABIAN: Bein 1 SD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/63677.ts
+#EXTINF:-1,ARABIAN: Bein 2 SD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/63676.ts
+#EXTINF:-1,ARABIAN: Bein 3 SD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/63675.ts
+#EXTINF:-1,ARABIAN: Bein 4 SD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/63674.ts
+#EXTINF:-1,ARABIAN: Bein 5 SD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/63673.ts
+#EXTINF:-1,ARABIAN: Bein 6 SD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/63672.ts
+#EXTINF:-1,ARABIAN: Bein 7 SD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/63671.ts
+#EXTINF:-1,ARABIAN: Bein 8 SD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/63670.ts
+#EXTINF:-1,ARABIAN: Bein 9 SD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/63669.ts
+#EXTINF:-1,ARABIAN: Bein 10 SD
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/63668.ts
+#EXTINF:-1,ARABIAN: Bein Sports Max 1HD / Bein News
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/32949.ts
+#EXTINF:-1,ARABIAN: Bein Sports Max 2HD / Bein News
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/32950.ts
+#EXTINF:-1,ARABIAN: Dubai Sport
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/10559.ts
+#EXTINF:-1,ARABIAN: Rotana KHALIGIA
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/5562.ts
+#EXTINF:-1,ARABIAN: Rotana Clip
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/5561.ts
+#EXTINF:-1,ARABIAN: Rotana Masriya
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/10554.ts
+#EXTINF:-1,ARABIAN: Rotana Classic
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/10553.ts
+#EXTINF:-1,ARABIAN: Rotana Cinema
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/10555.ts
+#EXTINF:-1,ARABIAN: Rotana Music
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/5571.ts
+#EXTINF:-1,ARABIAN: Aljazeera Documentary
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/5567.ts
+#EXTINF:-1,ARABIAN: Aljazeera Arabic
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/5569.ts
+#EXTINF:-1,ARABIAN: Aljazeera Mubasher
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/5570.ts
+#EXTINF:-1,AR:AL_MAGHRIBIA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1458.ts
+#EXTINF:-1,AR:AL_MASIRAH
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1244.ts
+#EXTINF:-1,AR:AL_MAYADEEN_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1368.ts
+#EXTINF:-1,AR:AL_OMAH_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1366.ts
+#EXTINF:-1,AR:AL_QAMAR
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1365.ts
+#EXTINF:-1,AR:AL_QANAT
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1364.ts
+#EXTINF:-1,AR:AL_SERAJ
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1241.ts
+#EXTINF:-1,AR:AL_SHARQIYA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1671.ts
+#EXTINF:-1,AR:AL_THABAT_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1361.ts
+#EXTINF:-1,AR:AL_THAQALAYN_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1360.ts
+#EXTINF:-1,AR:AL_WILAYAH_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1359.ts
+#EXTINF:-1,AR:AMJAD_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1231.ts
+#EXTINF:-1,AR:ANB
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1555.ts
+#EXTINF:-1,AR:ANN-tv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1666.ts
+#EXTINF:-1,AR:ARRAED
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1338.ts
+#EXTINF:-1,AR:ART_Hekayat1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1753.ts
+#EXTINF:-1,AR:ART_Hekayat2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1752.ts
+#EXTINF:-1,AR:ART_aflam1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1756.ts
+#EXTINF:-1,AR:ART_aflam2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1755.ts
+#EXTINF:-1,AR:ART_cinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1754.ts
+#EXTINF:-1,AR:Abu_Dhabi
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1706.ts
+#EXTINF:-1,AR:Aden TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1541.ts
+#EXTINF:-1,AR:Aden_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1260.ts
+#EXTINF:-1,AR:Afrah TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1514.ts
+#EXTINF:-1,AR:Aghani TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1513.ts
+#EXTINF:-1,AR:Aghapy TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1540.ts
+#EXTINF:-1,AR:Ahel Alquran
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1539.ts
+#EXTINF:-1,AR:Ahl-E-Bait_TV_Arabic
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1258.ts
+#EXTINF:-1,AR:Ajman TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1512.ts
+#EXTINF:-1,AR:Al Anbar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1538.ts
+#EXTINF:-1,AR:Al Araby
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1511.ts
+#EXTINF:-1,AR:Al Basira
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1537.ts
+#EXTINF:-1,AR:Al Ghadeer
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1510.ts
+#EXTINF:-1,AR:Al Haneen Music
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1673.ts
+#EXTINF:-1,AR:Al Hayat Mousalsalet
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1535.ts
+#EXTINF:-1,AR:Al Hayat TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1534.ts
+#EXTINF:-1,AR:Al Itejah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1533.ts
+#EXTINF:-1,AR:Al Karama TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1532.ts
+#EXTINF:-1,AR:Al Karma
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1509.ts
+#EXTINF:-1,AR:Al Kass Sport 4 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6790.ts
+#EXTINF:-1,AR:Al Kass Sport 5 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6791.ts
+#EXTINF:-1,AR:Al Kawthar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1566.ts
+#EXTINF:-1,AR:Al Maaly
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1531.ts
+#EXTINF:-1,AR:Al Maaref TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1565.ts
+#EXTINF:-1,AR:Al Mawsleya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1461.ts
+#EXTINF:-1,AR:Al Nahar  2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1508.ts
+#EXTINF:-1,AR:Al Nahar Cinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1507.ts
+#EXTINF:-1,AR:Al Rahma
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1563.ts
+#EXTINF:-1,AR:Al Rayyan2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1506.ts
+#EXTINF:-1,AR:Al Saeeda
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1505.ts
+#EXTINF:-1,AR:Al Sharqiya News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1562.ts
+#EXTINF:-1,AR:Al Sumaria
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1672.ts
+#EXTINF:-1,AR:Al Thaniya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1785.ts
+#EXTINF:-1,AR:Al Turkmenia TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1504.ts
+#EXTINF:-1,AR:Al Walaa TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1503.ts
+#EXTINF:-1,AR:Al forat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1674.ts
+#EXTINF:-1,AR:Al mosare3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1564.ts
+#EXTINF:-1,AR:Al-AHLY
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1457.ts
+#EXTINF:-1,AR:Al-Ebaa__TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1240.ts
+#EXTINF:-1,AR:Al-Jazeera_Mubasher
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1456.ts
+#EXTINF:-1,AR:Al-NAS
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1704.ts
+#EXTINF:-1,AR:Al-Resalah HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1703.ts
+#EXTINF:-1,AR:Al-majd
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1705.ts
+#EXTINF:-1,AR:AlAfasy
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6649.ts
+#EXTINF:-1,AR:AlAnis_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1355.ts
+#EXTINF:-1,AR:AlFallujah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1353.ts
+#EXTINF:-1,AR:AlHadath_Alyoum
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1351.ts
+#EXTINF:-1,AR:AlMagharibia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1347.ts
+#EXTINF:-1,AR:AlMagharibia2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1346.ts
+#EXTINF:-1,AR:AlOula_Masria
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1781.ts
+#EXTINF:-1,AR:AlWaad_Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1341.ts
+#EXTINF:-1,AR:Al_ARAB_NEWS
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1374.ts
+#EXTINF:-1,AR:Al_Ahd
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1460.ts
+#EXTINF:-1,AR:Al_Eiman_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1253.ts
+#EXTINF:-1,AR:Al_Fady
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1252.ts
+#EXTINF:-1,AR:Al_Falastiniah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1251.ts
+#EXTINF:-1,AR:Al_Gamaiya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1372.ts
+#EXTINF:-1,AR:Al_Ghad_Al_Mushreq
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1249.ts
+#EXTINF:-1,AR:Al_Hayat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1371.ts
+#EXTINF:-1,AR:Al_Hiwar_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1247.ts
+#EXTINF:-1,AR:Al_Malakoot
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1245.ts
+#EXTINF:-1,AR:Al_Mergab
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1367.ts
+#EXTINF:-1,AR:Al_Ons_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1243.ts
+#EXTINF:-1,AR:Al_Rafiden
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1242.ts
+#EXTINF:-1,AR:Al_Rayyan_SD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1363.ts
+#EXTINF:-1,AR:Al_Taif
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1362.ts
+#EXTINF:-1,AR:Al_janoubiya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1645.ts
+#EXTINF:-1,AR:Alaan TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1502.ts
+#EXTINF:-1,AR:Alassema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1782.ts
+#EXTINF:-1,AR:Aldanah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1530.ts
+#EXTINF:-1,AR:Alerth Alnbawi
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1522.ts
+#EXTINF:-1,AR:Algeria 5
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1529.ts
+#EXTINF:-1,AR:Alhayat_We_Alnas
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1350.ts
+#EXTINF:-1,AR:Alhorreya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1501.ts
+#EXTINF:-1,AR:Alhurra
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1349.ts
+#EXTINF:-1,AR:Aliman TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1528.ts
+#EXTINF:-1,AR:Aliraqia 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1669.ts
+#EXTINF:-1,AR:Alistiqama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1500.ts
+#EXTINF:-1,AR:Aljamahiria
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1238.ts
+#EXTINF:-1,AR:Almajd3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1700.ts
+#EXTINF:-1,AR:Almasar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1561.ts
+#EXTINF:-1,AR:Almassar Aloula
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1560.ts
+#EXTINF:-1,AR:Almayadeen
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1452.ts
+#EXTINF:-1,AR:Alnada TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1559.ts
+#EXTINF:-1,AR:Alnaeem TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1558.ts
+#EXTINF:-1,AR:Alnahar_Iraq_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1235.ts
+#EXTINF:-1,AR:Alqassim
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1557.ts
+#EXTINF:-1,AR:Alsahat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1499.ts
+#EXTINF:-1,AR:Alshallal TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1498.ts
+#EXTINF:-1,AR:Alsirat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1556.ts
+#EXTINF:-1,AR:Altaghier
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1234.ts
+#EXTINF:-1,AR:Alwaka3a
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1340.ts
+#EXTINF:-1,AR:Amhara_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1232.ts
+#EXTINF:-1,AR:An-Najah_NBC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1230.ts
+#EXTINF:-1,AR:Angel_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1339.ts
+#EXTINF:-1,AR:Anwar 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1497.ts
+#EXTINF:-1,AR:Aqila TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1496.ts
+#EXTINF:-1,AR:Arabica TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1495.ts
+#EXTINF:-1,AR:Arrabia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1640.ts
+#EXTINF:-1,AR:Arriadia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1639.ts
+#EXTINF:-1,AR:Asia-tv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1451.ts
+#EXTINF:-1,AR:Assadissa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1638.ts
+#EXTINF:-1,AR:Atfal_mawaheb
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1432.ts
+#EXTINF:-1,AR:Attessia TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1554.ts
+#EXTINF:-1,AR:Attessia_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1337.ts
+#EXTINF:-1,AR:Azhari
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1553.ts
+#EXTINF:-1,AR:BAGHDAD_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1665.ts
+#EXTINF:-1,AR:BEIN_SPORTS_10HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1144.ts
+#EXTINF:-1,AR:BEIN_SPORTS_10SD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1143.ts
+#EXTINF:-1,AR:BEIN_SPORTS_1HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1142.ts
+#EXTINF:-1,AR:BEIN_SPORTS_1SD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1141.ts
+#EXTINF:-1,AR:BEIN_SPORTS_2HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1140.ts
+#EXTINF:-1,AR:BEIN_SPORTS_2SD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1139.ts
+#EXTINF:-1,AR:BEIN_SPORTS_3HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1138.ts
+#EXTINF:-1,AR:BEIN_SPORTS_3SD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1137.ts
+#EXTINF:-1,AR:BEIN_SPORTS_4HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1136.ts
+#EXTINF:-1,AR:BEIN_SPORTS_4SD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1135.ts
+#EXTINF:-1,AR:BEIN_SPORTS_5HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1134.ts
+#EXTINF:-1,AR:BEIN_SPORTS_5SD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1133.ts
+#EXTINF:-1,AR:BEIN_SPORTS_6HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1132.ts
+#EXTINF:-1,AR:BEIN_SPORTS_6SD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1131.ts
+#EXTINF:-1,AR:BEIN_SPORTS_7HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1130.ts
+#EXTINF:-1,AR:BEIN_SPORTS_7SD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1129.ts
+#EXTINF:-1,AR:BEIN_SPORTS_8HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1128.ts
+#EXTINF:-1,AR:BEIN_SPORTS_8SD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1127.ts
+#EXTINF:-1,AR:BEIN_SPORTS_9HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1126.ts
+#EXTINF:-1,AR:BEIN_SPORTS_9SD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1125.ts
+#EXTINF:-1,AR:BELQEES
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1336.ts
+#EXTINF:-1,AR:BETHEL_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1335.ts
+#EXTINF:-1,AR:BETV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1229.ts
+#EXTINF:-1,AR:BURHAN_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1334.ts
+#EXTINF:-1,AR:Baraem
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1450.ts
+#EXTINF:-1,AR:Beladi
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1664.ts
+#EXTINF:-1,AR:CAIRO_ONE_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1228.ts
+#EXTINF:-1,AR:CATV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1333.ts
+#EXTINF:-1,AR:CCTV-A
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1332.ts
+#EXTINF:-1,AR:CCTV9
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1521.ts
+#EXTINF:-1,AR:CINEMA_1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1227.ts
+#EXTINF:-1,AR:CINEMA_2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1226.ts
+#EXTINF:-1,AR:CINEMA_ALWAN
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1225.ts
+#EXTINF:-1,AR:CJ_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1331.ts
+#EXTINF:-1,AR:CNA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1330.ts
+#EXTINF:-1,AR:CN_ARABIA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1431.ts
+#EXTINF:-1,AR:CORRECT
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1224.ts
+#EXTINF:-1,AR:CTV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1551.ts
+#EXTINF:-1,AR:CYC_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1329.ts
+#EXTINF:-1,AR:Cairo_Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1750.ts
+#EXTINF:-1,AR:Cairo_cinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1751.ts
+#EXTINF:-1,AR:Canal Algerie
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1552.ts
+#EXTINF:-1,AR:Cinema_Pro
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1663.ts
+#EXTINF:-1,AR:City7 TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1520.ts
+#EXTINF:-1,AR:DTV_Algerie
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1221.ts
+#EXTINF:-1,AR:DUA_CHANNEL
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1327.ts
+#EXTINF:-1,AR:DUBAI_RACING_2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1430.ts
+#EXTINF:-1,AR:DUBAI_SPORT1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1429.ts
+#EXTINF:-1,AR:DWTV_arabia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1634.ts
+#EXTINF:-1,AR:Daawa_Sunnah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1223.ts
+#EXTINF:-1,AR:Damaa_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1222.ts
+#EXTINF:-1,AR:Dar Al Iman
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1550.ts
+#EXTINF:-1,AR:Dewan
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1549.ts
+#EXTINF:-1,AR:Dubai_ONE
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1694.ts
+#EXTINF:-1,AR:Dubai_Sports4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1428.ts
+#EXTINF:-1,AR:Dubai_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1220.ts
+#EXTINF:-1,AR:Dzaier News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1548.ts
+#EXTINF:-1,AR:Dzair_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1219.ts
+#EXTINF:-1,AR:E ON
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1771.ts
+#EXTINF:-1,AR:EBC3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1218.ts
+#EXTINF:-1,AR:ELMOLED
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1748.ts
+#EXTINF:-1,AR:ELREMAH
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1214.ts
+#EXTINF:-1,AR:ELSANIORA_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1324.ts
+#EXTINF:-1,AR:EL_HOGGAR
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1325.ts
+#EXTINF:-1,AR:EOTC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1323.ts
+#EXTINF:-1,AR:ETIHAD_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1321.ts
+#EXTINF:-1,AR:Echorouk Benna
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1519.ts
+#EXTINF:-1,AR:Echourouk_News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1217.ts
+#EXTINF:-1,AR:Echourouk_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1633.ts
+#EXTINF:-1,AR:El Heddaf
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1632.ts
+#EXTINF:-1,AR:ElDjuzairia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1631.ts
+#EXTINF:-1,AR:ElHiwar_Ettounsi
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1661.ts
+#EXTINF:-1,AR:ElKeraza
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1215.ts
+#EXTINF:-1,AR:El_Adjwaa_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1326.ts
+#EXTINF:-1,AR:El_Sharq
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1216.ts
+#EXTINF:-1,AR:Elbilad TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1547.ts
+#EXTINF:-1,AR:Elfadjr TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1546.ts
+#EXTINF:-1,AR:Ennahar Laki
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1545.ts
+#EXTINF:-1,AR:Eriteria_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1322.ts
+#EXTINF:-1,AR:FALAKSAT
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1213.ts
+#EXTINF:-1,AR:FM_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1616.ts
+#EXTINF:-1,AR:FUJAIRAH_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1319.ts
+#EXTINF:-1,AR:Fashion_One
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1212.ts
+#EXTINF:-1,AR:Forsan_Alwatan
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1211.ts
+#EXTINF:-1,AR:Free_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1320.ts
+#EXTINF:-1,AR:GNN
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1209.ts
+#EXTINF:-1,AR:Ghinwa_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1318.ts
+#EXTINF:-1,AR:Ghion_Television_Network
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1210.ts
+#EXTINF:-1,AR:HALABA_STRET
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1317.ts
+#EXTINF:-1,AR:HD_CINEMA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1314.ts
+#EXTINF:-1,AR:HEBRON_SAT_TV_
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1208.ts
+#EXTINF:-1,AR:Hadramout Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1544.ts
+#EXTINF:-1,AR:Halab Today
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6648.ts
+#EXTINF:-1,AR:Halaba TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1543.ts
+#EXTINF:-1,AR:Hannibal
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1426.ts
+#EXTINF:-1,AR:Haysa_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1316.ts
+#EXTINF:-1,AR:Hazzo_Cinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1315.ts
+#EXTINF:-1,AR:Heya Tv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1542.ts
+#EXTINF:-1,AR:HodHod__TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1313.ts
+#EXTINF:-1,AR:Huda_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1693.ts
+#EXTINF:-1,AR:IFILM-arabic
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1692.ts
+#EXTINF:-1,AR:IUC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1206.ts
+#EXTINF:-1,AR:I_CINEMA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1207.ts
+#EXTINF:-1,AR:Imagine_Movies
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1691.ts
+#EXTINF:-1,AR:Insen TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1527.ts
+#EXTINF:-1,AR:Iqraa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1690.ts
+#EXTINF:-1,AR:Iran_Safaoi
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1312.ts
+#EXTINF:-1,AR:Iraq Future
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1478.ts
+#EXTINF:-1,AR:Iraqi_EDU
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1311.ts
+#EXTINF:-1,AR:Iraqia Sport
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1660.ts
+#EXTINF:-1,AR:Jordan
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1689.ts
+#EXTINF:-1,AR:Josat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1591.ts
+#EXTINF:-1,AR:K24_SD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1310.ts
+#EXTINF:-1,AR:KALEMEH_FARSI
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1308.ts
+#EXTINF:-1,AR:KANA_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1307.ts
+#EXTINF:-1,AR:KBC_Algeria
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1627.ts
+#EXTINF:-1,AR:KHARTOUM
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1774.ts
+#EXTINF:-1,AR:KIDZINIA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1306.ts
+#EXTINF:-1,AR:KIED_EL_NISA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1305.ts
+#EXTINF:-1,AR:Kaifa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1309.ts
+#EXTINF:-1,AR:LAYALY_CINEMA_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1205.ts
+#EXTINF:-1,AR:LCD Movies
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1589.ts
+#EXTINF:-1,AR:LIBYA_ALRASMEYA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1626.ts
+#EXTINF:-1,AR:LIBYA_NEWS
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1203.ts
+#EXTINF:-1,AR:LIBYA_RSMIA_Ch
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1304.ts
+#EXTINF:-1,AR:Lam Sat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1477.ts
+#EXTINF:-1,AR:Libya 218
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1476.ts
+#EXTINF:-1,AR:Libya One
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1588.ts
+#EXTINF:-1,AR:Libya_24
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1204.ts
+#EXTINF:-1,AR:Libya_Panorama_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1202.ts
+#EXTINF:-1,AR:Logos TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1475.ts
+#EXTINF:-1,AR:MAESTRO
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1302.ts
+#EXTINF:-1,AR:MASDAR_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1299.ts
+#EXTINF:-1,AR:MASR_ALHAYAH
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1199.ts
+#EXTINF:-1,AR:MAZAZIKH_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1298.ts
+#EXTINF:-1,AR: aljaleyatv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1383.ts
+#EXTINF:-1,AR:4SHABAB_TV1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1382.ts
+#EXTINF:-1,AR:5stars
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1646.ts
+#EXTINF:-1,AR:7alawet_Ro7
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1261.ts
+#EXTINF:-1,AR:7besha
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1617.ts
+#EXTINF:-1,AR:A1_Jordan
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1381.ts
+#EXTINF:-1,AR:ABO_HAFEEZA_AFLAM
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1380.ts
+#EXTINF:-1,AR:ACTION_TUBE
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1379.ts
+#EXTINF:-1,AR:AD DRAMA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1515.ts
+#EXTINF:-1,AR:ADDUSTOUR
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1378.ts
+#EXTINF:-1,AR:AD_Sport1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1436.ts
+#EXTINF:-1,AR:AD_Sport2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1435.ts
+#EXTINF:-1,AR:AFANDENA_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1259.ts
+#EXTINF:-1,AR:AFLAM_TUBE
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1377.ts
+#EXTINF:-1,AR:AL Dafrah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1536.ts
+#EXTINF:-1,AR:AL JAMEELA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1376.ts
+#EXTINF:-1,AR:AL-MUSTAKILA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1358.ts
+#EXTINF:-1,AR:AL-OKHDOOD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1357.ts
+#EXTINF:-1,AR:AL-SABAH
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1783.ts
+#EXTINF:-1,AR:AL-TEEB
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1356.ts
+#EXTINF:-1,AR:AL-WAHA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1239.ts
+#EXTINF:-1,AR:AL-masriya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1784.ts
+#EXTINF:-1,AR:ALASRAR_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1354.ts
+#EXTINF:-1,AR:ALBAIT_BAITAK_CINEMA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1702.ts
+#EXTINF:-1,AR:ALFATH_Quran
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1701.ts
+#EXTINF:-1,AR:ALFURSAN
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1352.ts
+#EXTINF:-1,AR:ALKEBBER_AFLAM
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1237.ts
+#EXTINF:-1,AR:ALKOFIYA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1236.ts
+#EXTINF:-1,AR:ALMADEEH
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1348.ts
+#EXTINF:-1,AR:ALMASRAWIA_AFLAM
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1345.ts
+#EXTINF:-1,AR:ALORDON_ALYOOM
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1344.ts
+#EXTINF:-1,AR:ALOSTORA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1343.ts
+#EXTINF:-1,AR:ALQuds
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1699.ts
+#EXTINF:-1,AR:ALSAHRAA-ALEBEL
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1342.ts
+#EXTINF:-1,AR:ALSahraa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1698.ts
+#EXTINF:-1,AR:ALWILAYAH_HAUSU_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1233.ts
+#EXTINF:-1,AR:AL_AHVAZ_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1257.ts
+#EXTINF:-1,AR:AL_ALAM
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1375.ts
+#EXTINF:-1,AR:AL_ARABY_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1256.ts
+#EXTINF:-1,AR:AL_ASSEMA2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1255.ts
+#EXTINF:-1,AR:AL_BAYAN_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1254.ts
+#EXTINF:-1,AR:AL_ESHRAQ_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1373.ts
+#EXTINF:-1,AR:AL_GHAD_AL_ARABI
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1250.ts
+#EXTINF:-1,AR:AL_HAQEQA_AL_DAWLIAH
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1248.ts
+#EXTINF:-1,AR:AL_HUJAH_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1246.ts
+#EXTINF:-1,AR:AL_Hadath
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1459.ts
+#EXTINF:-1,AR:AL_JANOUBIA_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1370.ts
+#EXTINF:-1,AR:AL_KITAB
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1369.ts
+#EXTINF:-1,AR:MBC Pro Sport 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1585.ts
+#EXTINF:-1,AR:MBC Pro Sport 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1584.ts
+#EXTINF:-1,AR:MBC Pro Sport 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1583.ts
+#EXTINF:-1,AR:MBC Pro Sport 4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1582.ts
+#EXTINF:-1,AR:ME_Music_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1198.ts
+#EXTINF:-1,AR:MINHAJ_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1296.ts
+#EXTINF:-1,AR:MODY_KIDS
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1425.ts
+#EXTINF:-1,AR:MUSIC_SHAEBY
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1195.ts
+#EXTINF:-1,AR:M_Tunisia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1659.ts
+#EXTINF:-1,AR:Madani_Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1303.ts
+#EXTINF:-1,AR:Majid_Kids_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1301.ts
+#EXTINF:-1,AR:Manar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1773.ts
+#EXTINF:-1,AR:Manara_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1300.ts
+#EXTINF:-1,AR:Mara7 TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1587.ts
+#EXTINF:-1,AR:Mariam TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1474.ts
+#EXTINF:-1,AR:Marjaeyat_2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1201.ts
+#EXTINF:-1,AR:Maspero_Zaman
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1200.ts
+#EXTINF:-1,AR:Massaya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1586.ts
+#EXTINF:-1,AR:Mazzika
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1742.ts
+#EXTINF:-1,AR:Mecca
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1197.ts
+#EXTINF:-1,AR:Medi1_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1297.ts
+#EXTINF:-1,AR:Mekamleen
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1625.ts
+#EXTINF:-1,AR:Miracle TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1581.ts
+#EXTINF:-1,AR:Misr_ELBald
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1196.ts
+#EXTINF:-1,AR:Moga Cinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1473.ts
+#EXTINF:-1,AR:Moga_Comedy
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1688.ts
+#EXTINF:-1,AR:Mosalsalat Tube
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1472.ts
+#EXTINF:-1,AR:Mta3 Alarabiyah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1580.ts
+#EXTINF:-1,AR:Music Alremas
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1471.ts
+#EXTINF:-1,AR:NABA_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1194.ts
+#EXTINF:-1,AR:NABD_SYRIA_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1193.ts
+#EXTINF:-1,AR:NESSMA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1624.ts
+#EXTINF:-1,AR:NHK World
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1518.ts
+#EXTINF:-1,AR:NOUR_KIDS
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1192.ts
+#EXTINF:-1,AR:Nabd Syria TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6788.ts
+#EXTINF:-1,AR:National_Geo_Ad
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1687.ts
+#EXTINF:-1,AR:Neelain Sport
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1772.ts
+#EXTINF:-1,AR:Nilat TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1579.ts
+#EXTINF:-1,AR:Nile_News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1441.ts
+#EXTINF:-1,AR:Nogoum_FM_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1295.ts
+#EXTINF:-1,AR:Noor_Dubai
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1686.ts
+#EXTINF:-1,AR:Nour Al Sham TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1578.ts
+#EXTINF:-1,AR:Nour Alsharq
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1470.ts
+#EXTINF:-1,AR:Nour Koddass
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1469.ts
+#EXTINF:-1,AR:Noursat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1577.ts
+#EXTINF:-1,AR:Numidia News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1517.ts
+#EXTINF:-1,AR:ONTV Live
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1576.ts
+#EXTINF:-1,AR:OUS
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1769.ts
+#EXTINF:-1,AR:Oman_TV_Culture_HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1294.ts
+#EXTINF:-1,AR:Oman_TV_General_HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1293.ts
+#EXTINF:-1,AR:Oman_TV_Live_HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1292.ts
+#EXTINF:-1,AR:Oman_TV_Sport_HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1291.ts
+#EXTINF:-1,AR:On Sport
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1770.ts
+#EXTINF:-1,AR:Orient
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1658.ts
+#EXTINF:-1,AR:Oromia_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1191.ts
+#EXTINF:-1,AR:Oyoon_Alwatan
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1290.ts
+#EXTINF:-1,AR:PUBLI_TOOLS_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1186.ts
+#EXTINF:-1,AR:Palestine
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1190.ts
+#EXTINF:-1,AR:Palestine TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1526.ts
+#EXTINF:-1,AR:Palestine Today
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1516.ts
+#EXTINF:-1,AR:Palestine_Live
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1189.ts
+#EXTINF:-1,AR:Palestine_News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1188.ts
+#EXTINF:-1,AR:Play_Aflam
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1685.ts
+#EXTINF:-1,AR:Presence_TV_Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1187.ts
+#EXTINF:-1,AR:Press_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1289.ts
+#EXTINF:-1,AR:Qatar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1684.ts
+#EXTINF:-1,AR:Quest arabia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1786.ts
+#EXTINF:-1,AR:RAK_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1185.ts
+#EXTINF:-1,AR:RTV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1184.ts
+#EXTINF:-1,AR:Resalat_ALIslam
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1288.ts
+#EXTINF:-1,AR:Russia_Alyaum
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1468.ts
+#EXTINF:-1,AR:SAMARRA_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1183.ts
+#EXTINF:-1,AR:SANAA_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1286.ts
+#EXTINF:-1,AR:SAT_LUMIERE
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1182.ts
+#EXTINF:-1,AR:SAUDI_24
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1285.ts
+#EXTINF:-1,AR:SAUDI_AL_EKHBARIA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1440.ts
+#EXTINF:-1,AR:SAUDI_AL_EQTISADIA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1711.ts
+#EXTINF:-1,AR:SAUDI_AL_THAKAFEYIA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1710.ts
+#EXTINF:-1,AR:SAUDI_SPORT
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1709.ts
+#EXTINF:-1,AR:SELAA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1281.ts
+#EXTINF:-1,AR:SENSE_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1280.ts
+#EXTINF:-1,AR:SHA3BEYAT
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1738.ts
+#EXTINF:-1,AR:SOUT_MASR
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1178.ts
+#EXTINF:-1,AR:STAR_CINEMA_1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1277.ts
+#EXTINF:-1,AR:STAR_CINEMA_2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1276.ts
+#EXTINF:-1,AR:SUDAN_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1622.ts
+#EXTINF:-1,AR:SYRIAN_EDUCATION
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1275.ts
+#EXTINF:-1,AR:Sada Elbalad  2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1768.ts
+#EXTINF:-1,AR:Safa TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1575.ts
+#EXTINF:-1,AR:Sahara_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1287.ts
+#EXTINF:-1,AR:Sama_Dubai
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1712.ts
+#EXTINF:-1,AR:Samira
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1623.ts
+#EXTINF:-1,AR:Saudi Anti Terrorism
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1574.ts
+#EXTINF:-1,AR:Saudi Quran
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1525.ts
+#EXTINF:-1,AR:Saudi Sunnah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1524.ts
+#EXTINF:-1,AR:Saudi-1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1708.ts
+#EXTINF:-1,AR:Saudi-2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1707.ts
+#EXTINF:-1,AR:Saudi_AlHaj
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1283.ts
+#EXTINF:-1,AR:Saudi_Al_Haj
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1284.ts
+#EXTINF:-1,AR:Sawtalitra TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1573.ts
+#EXTINF:-1,AR:Scope
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6767.ts
+#EXTINF:-1,AR:Scope Tv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1683.ts
+#EXTINF:-1,AR:Seha_wa_Gheza_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1181.ts
+#EXTINF:-1,AR:Sehaty
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1282.ts
+#EXTINF:-1,AR:Semsem
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1572.ts
+#EXTINF:-1,AR:Seven_Stars
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1279.ts
+#EXTINF:-1,AR:Sharjah Sport
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1523.ts
+#EXTINF:-1,AR:Sheba_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1180.ts
+#EXTINF:-1,AR:Sky_News_Arabia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1467.ts
+#EXTINF:-1,AR:Sout_Alqabael_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1179.ts
+#EXTINF:-1,AR:Southern_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1278.ts
+#EXTINF:-1,AR:SpaceToon
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1439.ts
+#EXTINF:-1,AR:Sudan Monwaat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1767.ts
+#EXTINF:-1,AR:Sudan Music
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6628.ts
+#EXTINF:-1,AR:Sudan_Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1766.ts
+#EXTINF:-1,AR:Sudania24
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6627.ts
+#EXTINF:-1,AR:Suhail TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1571.ts
+#EXTINF:-1,AR:TAHA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1438.ts
+#EXTINF:-1,AR:TATT7
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1274.ts
+#EXTINF:-1,AR:TAWAZON
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1273.ts
+#EXTINF:-1,AR:TIME_COMEDY
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1271.ts
+#EXTINF:-1,AR:TNN
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1465.ts
+#EXTINF:-1,AR:TOYOR_BABY
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1270.ts
+#EXTINF:-1,AR:TRP_HITS_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1174.ts
+#EXTINF:-1,AR:TRT Elarabiye
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1569.ts
+#EXTINF:-1,AR:TRT_ELARABIYE
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1269.ts
+#EXTINF:-1,AR:TV5
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1620.ts
+#EXTINF:-1,AR:Teatro Tube
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1466.ts
+#EXTINF:-1,AR:Tele_Tchad
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1176.ts
+#EXTINF:-1,AR:Telvza_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1272.ts
+#EXTINF:-1,AR:The_Savior
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1175.ts
+#EXTINF:-1,AR:Toktok Cima
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1570.ts
+#EXTINF:-1,AR:Toyour Janah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1437.ts
+#EXTINF:-1,AR:Turkmeneli
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1568.ts
+#EXTINF:-1,AR:UBER_CINEMA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1173.ts
+#EXTINF:-1,AR:UBER_DRAMA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1268.ts
+#EXTINF:-1,AR:UNRWA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1267.ts
+#EXTINF:-1,AR:VELAYAT_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1266.ts
+#EXTINF:-1,AR:WW_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1172.ts
+#EXTINF:-1,AR:Walta TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1265.ts
+#EXTINF:-1,AR:Wanasah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1649.ts
+#EXTINF:-1,AR:Watan TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1464.ts
+#EXTINF:-1,AR:Wesal Haq
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1567.ts
+#EXTINF:-1,AR:Wesal TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1595.ts
+#EXTINF:-1,AR:Wisal_Hausa_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1264.ts
+#EXTINF:-1,AR:YEMEN_TODAY_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1171.ts
+#EXTINF:-1,AR:YEMEN_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1170.ts
+#EXTINF:-1,AR:Zaytoona
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1619.ts
+#EXTINF:-1,AR:aghanina
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1675.ts
+#EXTINF:-1,AR:ajyal
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1462.ts
+#EXTINF:-1,AR:al aqsa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5868.ts
+#EXTINF:-1,AR:al-amaken
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5859.ts
+#EXTINF:-1,AR:al-shareyyahchannel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1644.ts
+#EXTINF:-1,AR:al_amaken_drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5858.ts
+#EXTINF:-1,AR:alanwar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1670.ts
+#EXTINF:-1,AR:alaskandariya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5861.ts
+#EXTINF:-1,AR:algeria3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1643.ts
+#EXTINF:-1,AR:aljazeera_Documents
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1453.ts
+#EXTINF:-1,AR:alkassone
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2732.ts
+#EXTINF:-1,AR:alkasstwo
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2733.ts
+#EXTINF:-1,AR:almada
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1668.ts
+#EXTINF:-1,AR:alraitv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1641.ts
+#EXTINF:-1,AR:alrasheed
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1667.ts
+#EXTINF:-1,AR:alsa3eed
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5860.ts
+#EXTINF:-1,AR:awdeh
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5870.ts
+#EXTINF:-1,AR:ayaat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1637.ts
+#EXTINF:-1,AR:bbcw
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1636.ts
+#EXTINF:-1,AR:cimaalibaba
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1635.ts
+#EXTINF:-1,AR:delta
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5862.ts
+#EXTINF:-1,AR:dijlahtv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1662.ts
+#EXTINF:-1,AR:dmc
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5865.ts
+#EXTINF:-1,AR:dmc drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5864.ts
+#EXTINF:-1,AR:dmc_Sports
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1328.ts
+#EXTINF:-1,AR:first tv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1630.ts
+#EXTINF:-1,AR:honaalquds
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1615.ts
+#EXTINF:-1,AR:hounabaghdad
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1629.ts
+#EXTINF:-1,AR:jordansport
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1614.ts
+#EXTINF:-1,AR:jsc_documentary
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1628.ts
+#EXTINF:-1,AR:karameesh
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1443.ts
+#EXTINF:-1,AR:kokkytv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1442.ts
+#EXTINF:-1,AR:on e
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5866.ts
+#EXTINF:-1,AR:on live
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5867.ts
+#EXTINF:-1,AR:onemusic
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1605.ts
+#EXTINF:-1,AR:palestinian
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5869.ts
+#EXTINF:-1,AR:qou.edu
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5871.ts
+#EXTINF:-1,AR:roya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1604.ts
+#EXTINF:-1,AR:samatv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1657.ts
+#EXTINF:-1,AR:sat-7arabic
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1603.ts
+#EXTINF:-1,AR:sat-7kids
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1602.ts
+#EXTINF:-1,AR:shababtv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1601.ts
+#EXTINF:-1,AR:soutelshaab
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1600.ts
+#EXTINF:-1,AR:sudan sport
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6626.ts
+#EXTINF:-1,AR:tebah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5863.ts
+#EXTINF:-1,AR:timequran
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1599.ts
+#EXTINF:-1,AR:tobactstv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1598.ts
+#EXTINF:-1,AR:topcinematv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1597.ts
+#EXTINF:-1,AR:tunisna
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1596.ts
+#EXTINF:-1,AR:tv4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1621.ts
+#EXTINF:-1,AR:wakeel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5872.ts
+#EXTINF:-1,AR:yemenshabab
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1594.ts
+#EXTINF:-1,AR:zeeliving
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1593.ts
+#EXTINF:-1,AR:zitounahedaya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1618.ts
+#EXTINF:-1,AR:zweinabaladna
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1592.ts
+#EXTINF:-1,AR_Bahrain_Sports
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1399.ts
+#EXTINF:-1,AR_Bahrain_Sports_2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1398.ts
+#EXTINF:-1,AR_Kuwait_Sports
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1390.ts
+#EXTINF:-1,AR_Saudi_Sport_1_HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1388.ts
+#EXTINF:-1,AR_Saudi_Sport_2_HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1387.ts
+#EXTINF:-1,Al Adalah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6770.ts
+#EXTINF:-1,Al Diyar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1676.ts
+#EXTINF:-1,Al Kout
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6769.ts
+#EXTINF:-1,Al Shahed
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6768.ts
+#EXTINF:-1,Almasalah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1385.ts
+#EXTINF:-1,BEIN_SPORTS_11
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2893.ts
+#EXTINF:-1,BEIN_SPORTS_11sd
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2892.ts
+#EXTINF:-1,BEIN_SPORTS_12
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2891.ts
+#EXTINF:-1,BEIN_SPORTS_12sd
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2890.ts
+#EXTINF:-1,BEIN_SPORTS_13
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2889.ts
+#EXTINF:-1,BEIN_SPORTS_13sd
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2888.ts
+#EXTINF:-1,BEIN_SPORTS_14
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2887.ts
+#EXTINF:-1,BEIN_SPORTS_14sd
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2886.ts
+#EXTINF:-1,BEIN_SPORTS_15
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2885.ts
+#EXTINF:-1,BEIN_SPORTS_15sd
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2884.ts
+#EXTINF:-1,Bein TCM
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6766.ts
+#EXTINF:-1,Ekin_Turk
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6664.ts
+#EXTINF:-1,KUR:SPEDA_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1177.ts
+#EXTINF:-1,Karbala Tv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1648.ts
+#EXTINF:-1,Köy_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6665.ts
+#EXTINF:-1,NR1_TV_HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6666.ts
+#EXTINF:-1,Prime_TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1263.ts
+#EXTINF:-1,Qatar_Today
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/1262.ts
+#EXTINF:-1,RA:Alamaken
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6629.ts
+#EXTINF:-1,RA:Alamaken Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6630.ts
+#EXTINF:-1,Rehber
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6667.ts
+#EXTINF:-1,Saudi 24 Sport
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6771.ts
+#EXTINF:-1,alfajer3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/6789.ts
+#EXTINF:-1,beIN_SPORTS_News_HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/2880.ts
+#EXTINF:-1,dubaizaman
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/5873.ts
+#EXTINF:-1,AR:MBC_Bollywood
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7219.ts
+#EXTINF:-1,AR:22 TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7325.ts
+#EXTINF:-1,AR:ON Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7326.ts
+#EXTINF:-1,AR:MESat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7327.ts
+#EXTINF:-1,AR:aljesrtv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7334.ts
+#EXTINF:-1,AR:daraliman
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7337.ts
+#EXTINF:-1,AR:liwantv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7336.ts
+#EXTINF:-1,AR:qasiountv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7331.ts
+#EXTINF:-1,AR:radioalkultv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7333.ts
+#EXTINF:-1,AR:shadaalhurriehtv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7335.ts
+#EXTINF:-1,AR:shamfm
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7332.ts
+#EXTINF:-1,AR:shamna
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7328.ts
+#EXTINF:-1,AR:syriafm
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7330.ts
+#EXTINF:-1,AR:zanoubia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7329.ts
+#EXTINF:-1,AR:almajlis
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7338.ts
+#EXTINF:-1,AR:almawsleya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7340.ts
+#EXTINF:-1,AR:ANB ASHORIYA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7339.ts
+#EXTINF:-1,GENERAL:MBC  Drama HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13079.ts
+#EXTINF:-1,GENERAL:MBC 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13098.ts
+#EXTINF:-1,GENERAL:MBC 1 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13088.ts
+#EXTINF:-1,GENERAL:MBC 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13097.ts
+#EXTINF:-1,GENERAL:MBC 2 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13087.ts
+#EXTINF:-1,GENERAL:MBC 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13096.ts
+#EXTINF:-1,GENERAL:MBC 3 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13086.ts
+#EXTINF:-1,GENERAL:MBC 4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13095.ts
+#EXTINF:-1,GENERAL:MBC 4 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13085.ts
+#EXTINF:-1,GENERAL:MBC Action
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13094.ts
+#EXTINF:-1,GENERAL:MBC Action HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13084.ts
+#EXTINF:-1,GENERAL:MBC Bollywood
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13091.ts
+#EXTINF:-1,GENERAL:MBC Bollywood HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13080.ts
+#EXTINF:-1,GENERAL:MBC Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13093.ts
+#EXTINF:-1,GENERAL:MBC Drama HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13083.ts
+#EXTINF:-1,GENERAL:MBC Masr
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13090.ts
+#EXTINF:-1,GENERAL:MBC Masr 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13089.ts
+#EXTINF:-1,GENERAL:MBC Max
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13092.ts
+#EXTINF:-1,GENERAL:MBC Max HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13082.ts
+#EXTINF:-1,GENERAL:MBC Variety HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13081.ts
+#EXTINF:-1,GENERAL:Rotana Aflam HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13074.ts
+#EXTINF:-1,GENERAL:Rotana Cinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13072.ts
+#EXTINF:-1,GENERAL:Rotana Cinema HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13075.ts
+#EXTINF:-1,GENERAL:Rotana Classic
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13071.ts
+#EXTINF:-1,GENERAL:Rotana Classic HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13073.ts
+#EXTINF:-1,GENERAL:Rotana Clip
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13070.ts
+#EXTINF:-1,GENERAL:Rotana Khalijeah HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13077.ts
+#EXTINF:-1,GENERAL:Rotana Khalijiah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13069.ts
+#EXTINF:-1,GENERAL:Rotana Masriya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13068.ts
+#EXTINF:-1,GENERAL:Rotana Masriya HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13076.ts
+#EXTINF:-1,GENERAL:Rotana Music
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13067.ts
+#EXTINF:-1,GENERAL:Rotana Music HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13078.ts
+#EXTINF:-1,GENERAL:ZEE AFLAM
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13066.ts
+#EXTINF:-1,GENERAL:Zee ALWAN
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13065.ts
+#EXTINF:-1,GENERAL:B4U Aflam
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13064.ts
+#EXTINF:-1,GENERAL:B4U plus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13063.ts
+#EXTINF:-1,GENERAL:IFILM Arabic
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13062.ts
+#EXTINF:-1,SHAM:Alfalastiniah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13105.ts
+#EXTINF:-1,SHAM:Aljadeed
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13115.ts
+#EXTINF:-1,SHAM:Aljesr TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13130.ts
+#EXTINF:-1,SHAM:Alkofiya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13104.ts
+#EXTINF:-1,SHAM:Annajah Nbc
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13101.ts
+#EXTINF:-1,SHAM:Awdeh
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13102.ts
+#EXTINF:-1,SHAM:Free Syrian
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13126.ts
+#EXTINF:-1,SHAM:Future TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13114.ts
+#EXTINF:-1,SHAM:Halab Today
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13132.ts
+#EXTINF:-1,SHAM:Heya TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13112.ts
+#EXTINF:-1,SHAM:Jordan TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13111.ts
+#EXTINF:-1,SHAM:LBC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13119.ts
+#EXTINF:-1,SHAM:LBC HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13120.ts
+#EXTINF:-1,SHAM:LDC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13118.ts
+#EXTINF:-1,SHAM:Lebanon TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13117.ts
+#EXTINF:-1,SHAM:Liwan TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13131.ts
+#EXTINF:-1,SHAM:MTV Lebanon
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13116.ts
+#EXTINF:-1,SHAM:Noor Alsham
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13122.ts
+#EXTINF:-1,SHAM:Palastine Today
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13100.ts
+#EXTINF:-1,SHAM:Palestine Live
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13106.ts
+#EXTINF:-1,SHAM:Palestinian TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13107.ts
+#EXTINF:-1,SHAM:Radioalkul TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13125.ts
+#EXTINF:-1,SHAM:Roya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13110.ts
+#EXTINF:-1,SHAM:Sama TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13133.ts
+#EXTINF:-1,SHAM:Shada Alhurrieh TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13129.ts
+#EXTINF:-1,SHAM:Sham FM
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13128.ts
+#EXTINF:-1,SHAM:Shamna
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13124.ts
+#EXTINF:-1,SHAM:Syria FM
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13127.ts
+#EXTINF:-1,SHAM:Syria TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13135.ts
+#EXTINF:-1,SHAM:Syrian Drama TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13134.ts
+#EXTINF:-1,SHAM:Syrian Edu
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13121.ts
+#EXTINF:-1,SHAM:Tele Liban
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13113.ts
+#EXTINF:-1,SHAM:Yarmouk
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13109.ts
+#EXTINF:-1,SHAM:Zanoubia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13123.ts
+#EXTINF:-1,SHAM:Zweina Beladna
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13108.ts
+#EXTINF:-1,Egypt::AinCinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13139.ts
+#EXTINF:-1,Egypt::Alaskandaria
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13148.ts
+#EXTINF:-1,Egypt::Alassema 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13184.ts
+#EXTINF:-1,Egypt::Alassema TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13185.ts
+#EXTINF:-1,Egypt::AlBait Baitak Cinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13141.ts
+#EXTINF:-1,Egypt::Aldelta TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13144.ts
+#EXTINF:-1,Egypt::Alfaraeina
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13169.ts
+#EXTINF:-1,Egypt::Alhayat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13205.ts
+#EXTINF:-1,Egypt::Alhayat 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13204.ts
+#EXTINF:-1,Egypt::Alhayat Mousalsalet
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13203.ts
+#EXTINF:-1,Egypt::Alkahera
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13149.ts
+#EXTINF:-1,Egypt::Alkahera Wal Nas
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13196.ts
+#EXTINF:-1,Egypt::Alkahera Wal Nas 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13195.ts
+#EXTINF:-1,Egypt::Alkana 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13145.ts
+#EXTINF:-1,Egypt::AlmasrawiaAflam
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13138.ts
+#EXTINF:-1,Egypt::Almasriya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13207.ts
+#EXTINF:-1,Egypt::Almehwar TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13189.ts
+#EXTINF:-1,Egypt::Alnahar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13198.ts
+#EXTINF:-1,Egypt::Alnahar Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13197.ts
+#EXTINF:-1,Egypt::Alsaeed TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13147.ts
+#EXTINF:-1,Egypt::Althanya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13188.ts
+#EXTINF:-1,Egypt::Belodya Flam
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13143.ts
+#EXTINF:-1,Egypt::Cairo Cinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13170.ts
+#EXTINF:-1,Egypt::Cairo Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13168.ts
+#EXTINF:-1,Egypt::Cairo University1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13167.ts
+#EXTINF:-1,Egypt::CBC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13202.ts
+#EXTINF:-1,Egypt::CBC Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13201.ts
+#EXTINF:-1,Egypt::CBC Extra
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13200.ts
+#EXTINF:-1,Egypt::CBC Sofra
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13199.ts
+#EXTINF:-1,Egypt::Cima
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13161.ts
+#EXTINF:-1,Egypt::Cima Alibaba
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13159.ts
+#EXTINF:-1,Egypt::Cima Fartaka
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13160.ts
+#EXTINF:-1,Egypt::Cinema 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13158.ts
+#EXTINF:-1,Egypt::Cinema 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13157.ts
+#EXTINF:-1,Egypt::Cinema Pro
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13154.ts
+#EXTINF:-1,Egypt::DMC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13192.ts
+#EXTINF:-1,Egypt::DMC Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13190.ts
+#EXTINF:-1,Egypt::Dolly Cinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13156.ts
+#EXTINF:-1,Egypt::Dream 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13206.ts
+#EXTINF:-1,Egypt::Ehaty Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13178.ts
+#EXTINF:-1,Egypt::Elsharq
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13181.ts
+#EXTINF:-1,Egypt::HareemElsultan
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13137.ts
+#EXTINF:-1,Egypt::ImagineMovies
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13140.ts
+#EXTINF:-1,Egypt::LTC TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13183.ts
+#EXTINF:-1,Egypt::Mekameleen
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13182.ts
+#EXTINF:-1,Egypt::Mekameleen 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13180.ts
+#EXTINF:-1,Egypt::Melody Classic
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13153.ts
+#EXTINF:-1,Egypt::Misrelbald
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13142.ts
+#EXTINF:-1,Egypt::Nile Cinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13171.ts
+#EXTINF:-1,Egypt::Nile Comedy
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13175.ts
+#EXTINF:-1,Egypt::Nile Culture
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13172.ts
+#EXTINF:-1,Egypt::Nile Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13174.ts
+#EXTINF:-1,Egypt::Nile Family
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13176.ts
+#EXTINF:-1,Egypt::Nile Life
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13173.ts
+#EXTINF:-1,Egypt::Nile TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13177.ts
+#EXTINF:-1,Egypt::Nour Alsharq
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13155.ts
+#EXTINF:-1,Egypt::ON Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13193.ts
+#EXTINF:-1,Egypt::ON TV Live
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13191.ts
+#EXTINF:-1,Egypt::ONE TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13194.ts
+#EXTINF:-1,Egypt::Panorama Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13165.ts
+#EXTINF:-1,Egypt::Panorama Drama 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13164.ts
+#EXTINF:-1,Egypt::Panorama Film
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13166.ts
+#EXTINF:-1,Egypt::Panoroma Food
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13179.ts
+#EXTINF:-1,Egypt::Sada Elbalad
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13187.ts
+#EXTINF:-1,Egypt::Sada Elbalad Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13186.ts
+#EXTINF:-1,Egypt::Star Cinema 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13163.ts
+#EXTINF:-1,Egypt::Star Cinema 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13162.ts
+#EXTINF:-1,Egypt::Teba TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13146.ts
+#EXTINF:-1,Egypt::TEN
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13208.ts
+#EXTINF:-1,Egypt::Time Comedy
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13152.ts
+#EXTINF:-1,Egypt::TokTok Cima
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13151.ts
+#EXTINF:-1,Egypt::TokTok Flam
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13150.ts
+#EXTINF:-1,Egypt:Alsasha Cinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13210.ts
+#EXTINF:-1,Egypt:LCD Movies
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13211.ts
+#EXTINF:-1,Golf:22 TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13276.ts
+#EXTINF:-1,Golf:ABU Dhabi
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13294.ts
+#EXTINF:-1,Golf:AD Alemarat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13293.ts
+#EXTINF:-1,Golf:AD Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13295.ts
+#EXTINF:-1,Golf:Aden TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13213.ts
+#EXTINF:-1,Golf:Ajman TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13285.ts
+#EXTINF:-1,Golf:Alaan TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13297.ts
+#EXTINF:-1,Golf:Alamaken Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13271.ts
+#EXTINF:-1,Golf:Aldafrah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13286.ts
+#EXTINF:-1,Golf:Aleiman TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13212.ts
+#EXTINF:-1,Golf:Alekhbaria
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13279.ts
+#EXTINF:-1,Golf:Aleqtisadiah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13270.ts
+#EXTINF:-1,Golf:Alfursan
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13264.ts
+#EXTINF:-1,Golf:Alghad Almushreg
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13221.ts
+#EXTINF:-1,Golf:Alghad TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13246.ts
+#EXTINF:-1,Golf:Alhayat WE Alnas
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13255.ts
+#EXTINF:-1,Golf:Alistiqama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13228.ts
+#EXTINF:-1,Golf:Almajlis
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13236.ts
+#EXTINF:-1,Golf:Almasirah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13220.ts
+#EXTINF:-1,Golf:Alqamar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13247.ts
+#EXTINF:-1,Golf:Alqanat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13281.ts
+#EXTINF:-1,Golf:Alqassim
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13266.ts
+#EXTINF:-1,Golf:Alrai
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13242.ts
+#EXTINF:-1,Golf:Alrayyan
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13260.ts
+#EXTINF:-1,Golf:Alrayyan 2 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13259.ts
+#EXTINF:-1,Golf:Alsaeeda
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13222.ts
+#EXTINF:-1,Golf:Alsahat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13214.ts
+#EXTINF:-1,Golf:Alsahraa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13268.ts
+#EXTINF:-1,Golf:Alsharjah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13288.ts
+#EXTINF:-1,Golf:Alteeb TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13267.ts
+#EXTINF:-1,Golf:Alwakaa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13245.ts
+#EXTINF:-1,Golf:Alwousta Aldhaidhd
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13284.ts
+#EXTINF:-1,Golf:Assalamou Alayk TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13283.ts
+#EXTINF:-1,Golf:Bahrain International
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13233.ts
+#EXTINF:-1,Golf:Bahrain TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13234.ts
+#EXTINF:-1,Golf:Bedaya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13269.ts
+#EXTINF:-1,Golf:Belqees
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13218.ts
+#EXTINF:-1,Golf:Dubai Aloula
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13292.ts
+#EXTINF:-1,Golf:Dubai One
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13290.ts
+#EXTINF:-1,Golf:Dubai Zaman
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13291.ts
+#EXTINF:-1,Golf:Fadak TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13248.ts
+#EXTINF:-1,Golf:Fujairah TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13287.ts
+#EXTINF:-1,Golf:Funoon
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13235.ts
+#EXTINF:-1,Golf:Gemarabia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13296.ts
+#EXTINF:-1,Golf:Hadramout TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13215.ts
+#EXTINF:-1,Golf:Hala TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13262.ts
+#EXTINF:-1,Golf:Hawas TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13258.ts
+#EXTINF:-1,Golf:Ifilm TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13243.ts
+#EXTINF:-1,Golf:Iraq Edu
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13256.ts
+#EXTINF:-1,Golf:Kaifa TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13280.ts
+#EXTINF:-1,Golf:KTV Alarabi
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13238.ts
+#EXTINF:-1,Golf:KTV Ethraa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13237.ts
+#EXTINF:-1,Golf:Kuwait Plus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13239.ts
+#EXTINF:-1,Golf:Kuwait TV 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13241.ts
+#EXTINF:-1,Golf:Kuwait TV 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13240.ts
+#EXTINF:-1,Golf:Majan TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13229.ts
+#EXTINF:-1,Golf:Masdar TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13278.ts
+#EXTINF:-1,Golf:Mta3 Alarabiyah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13251.ts
+#EXTINF:-1,Golf:Naba TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13277.ts
+#EXTINF:-1,Golf:Nilat TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13249.ts
+#EXTINF:-1,Golf:Noor Dubai
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13282.ts
+#EXTINF:-1,Golf:Oman TV Culture
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13230.ts
+#EXTINF:-1,Golf:Oman Tv General
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13232.ts
+#EXTINF:-1,Golf:Oman TV Live
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13231.ts
+#EXTINF:-1,Golf:Oman TV Sport
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13227.ts
+#EXTINF:-1,Golf:Oyoon Alwatan
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13272.ts
+#EXTINF:-1,Golf:Qatar Today
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13257.ts
+#EXTINF:-1,Golf:Qatar TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13261.ts
+#EXTINF:-1,Golf:Resalat Al Islam
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13250.ts
+#EXTINF:-1,Golf:Rushd TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13219.ts
+#EXTINF:-1,Golf:Salahdan TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13244.ts
+#EXTINF:-1,Golf:Sama Dubai
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13289.ts
+#EXTINF:-1,Golf:Sama Yemen TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13223.ts
+#EXTINF:-1,Golf:Saudi 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13275.ts
+#EXTINF:-1,Golf:Saudi 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13274.ts
+#EXTINF:-1,Golf:Saudi Enjazat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13273.ts
+#EXTINF:-1,Golf:Selaa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13265.ts
+#EXTINF:-1,Golf:Sheba TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13216.ts
+#EXTINF:-1,Golf:Sudan Monwaat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13263.ts
+#EXTINF:-1,Golf:Suhail TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13217.ts
+#EXTINF:-1,Golf:TRT Alarabiya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13252.ts
+#EXTINF:-1,Golf:TT1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13253.ts
+#EXTINF:-1,Golf:Watan TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13254.ts
+#EXTINF:-1,Golf:Yemen Shabab
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13224.ts
+#EXTINF:-1,Golf:Yemen Today
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13225.ts
+#EXTINF:-1,Golf:Yemen TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13226.ts
+#EXTINF:-1,Iraq:Afak
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13313.ts
+#EXTINF:-1,Iraq:Ala hd
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13316.ts
+#EXTINF:-1,Iraq:Alahvaz TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13309.ts
+#EXTINF:-1,Iraq:Alanbar TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13322.ts
+#EXTINF:-1,Iraq:Alanwar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13347.ts
+#EXTINF:-1,Iraq:Alanwar 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13346.ts
+#EXTINF:-1,Iraq:Alaqila TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13338.ts
+#EXTINF:-1,Iraq:Aldiyar TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13320.ts
+#EXTINF:-1,Iraq:Alebaa TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13307.ts
+#EXTINF:-1,Iraq:Aleshraq TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13310.ts
+#EXTINF:-1,Iraq:Alfallojah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13324.ts
+#EXTINF:-1,Iraq:Alforat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13325.ts
+#EXTINF:-1,Iraq:Algamaiya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13311.ts
+#EXTINF:-1,Iraq:Alghadeer
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13318.ts
+#EXTINF:-1,Iraq:Alhujah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13341.ts
+#EXTINF:-1,Iraq:Alhurra
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13335.ts
+#EXTINF:-1,Iraq:Alhurra Iraq
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13334.ts
+#EXTINF:-1,Iraq:Aliraqia News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13332.ts
+#EXTINF:-1,Iraq:Aliraqia1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13359.ts
+#EXTINF:-1,Iraq:Alitejah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13329.ts
+#EXTINF:-1,Iraq:Alkawthar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13304.ts
+#EXTINF:-1,Iraq:Almaaref
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13357.ts
+#EXTINF:-1,Iraq:Almasar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13352.ts
+#EXTINF:-1,Iraq:Almawsleya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13353.ts
+#EXTINF:-1,Iraq:Alnaeem TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13339.ts
+#EXTINF:-1,Iraq:Alrafiden
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13360.ts
+#EXTINF:-1,Iraq:Alrasheed
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13315.ts
+#EXTINF:-1,Iraq:Alsalam TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13303.ts
+#EXTINF:-1,Iraq:Alsharqiya
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13356.ts
+#EXTINF:-1,Iraq:Alsharqiya News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13331.ts
+#EXTINF:-1,Iraq:Altaghier
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13317.ts
+#EXTINF:-1,Iraq:Althaqalayn TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13343.ts
+#EXTINF:-1,Iraq:Alturkmenia TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13351.ts
+#EXTINF:-1,Iraq:Alwalaa TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13302.ts
+#EXTINF:-1,Iraq:ANB
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13333.ts
+#EXTINF:-1,Iraq:ANN
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13336.ts
+#EXTINF:-1,Iraq:Asia TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13319.ts
+#EXTINF:-1,Iraq:Beladi
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13314.ts
+#EXTINF:-1,Iraq:Dijlah
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13355.ts
+#EXTINF:-1,Iraq:Etihad TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13312.ts
+#EXTINF:-1,Iraq:Hawacom
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13328.ts
+#EXTINF:-1,Iraq:Hona Baghdad
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13321.ts
+#EXTINF:-1,Iraq:Imam Hussein TV 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13350.ts
+#EXTINF:-1,Iraq:Imam Hussein TV 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13349.ts
+#EXTINF:-1,Iraq:Imam Hussein TV 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13348.ts
+#EXTINF:-1,Iraq:Iraq Future
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13354.ts
+#EXTINF:-1,Iraq:Iraq Medical
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13358.ts
+#EXTINF:-1,Iraq:Iraqia Sport
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13301.ts
+#EXTINF:-1,Iraq:Karbala TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13342.ts
+#EXTINF:-1,Iraq:Lamsat
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13305.ts
+#EXTINF:-1,Iraq:Manhaj
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13345.ts
+#EXTINF:-1,Iraq:Minhaj TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13344.ts
+#EXTINF:-1,Iraq:Music Alremas
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13327.ts
+#EXTINF:-1,Iraq:Naynawa Alghad
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13306.ts
+#EXTINF:-1,Iraq:NRT Arabic
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13330.ts
+#EXTINF:-1,Iraq:Sama Almousel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13340.ts
+#EXTINF:-1,Iraq:Samarraa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13323.ts
+#EXTINF:-1,Iraq:Shabab TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13326.ts
+#EXTINF:-1,Iraq:Sharqiya Kalba
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13299.ts
+#EXTINF:-1,Iraq:Sumaria
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13361.ts
+#EXTINF:-1,Iraq:Suroyo TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13300.ts
+#EXTINF:-1,Iraq:Thesavior
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13337.ts
+#EXTINF:-1,Iraq:Turkmeneli TV HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13308.ts
+#EXTINF:-1,Maghreb:2M Maroc
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13373.ts
+#EXTINF:-1,Maghreb:A3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13413.ts
+#EXTINF:-1,Maghreb:Alanis TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13421.ts
+#EXTINF:-1,Maghreb:Alaoula Inter
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13372.ts
+#EXTINF:-1,Maghreb:Alaoula Inter HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13370.ts
+#EXTINF:-1,Maghreb:Alaoula Inter Plus l
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13371.ts
+#EXTINF:-1,Maghreb:Algeria TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13411.ts
+#EXTINF:-1,Maghreb:Aljanoubia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13388.ts
+#EXTINF:-1,Maghreb:Almagharibia 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13414.ts
+#EXTINF:-1,Maghreb:Almaghribia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13416.ts
+#EXTINF:-1,Maghreb:Alnabaa TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13380.ts
+#EXTINF:-1,Maghreb:Alons TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13364.ts
+#EXTINF:-1,Maghreb:Alothma TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13382.ts
+#EXTINF:-1,Maghreb:Alrsmia TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13374.ts
+#EXTINF:-1,Maghreb:Arrabiaa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13369.ts
+#EXTINF:-1,Maghreb:Arriadia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13363.ts
+#EXTINF:-1,Maghreb:Assadissa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13367.ts
+#EXTINF:-1,Maghreb:Attessia TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13394.ts
+#EXTINF:-1,Maghreb:Bahia TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13401.ts
+#EXTINF:-1,Maghreb:Beur TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13402.ts
+#EXTINF:-1,Maghreb:Canal Algeria
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13412.ts
+#EXTINF:-1,Maghreb:Dzaier News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13418.ts
+#EXTINF:-1,Maghreb:Dzair 16
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13404.ts
+#EXTINF:-1,Maghreb:Dzair 24
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13403.ts
+#EXTINF:-1,Maghreb:Dzair TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13407.ts
+#EXTINF:-1,Maghreb:Echourouk Benna
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13423.ts
+#EXTINF:-1,Maghreb:Echourouk News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13419.ts
+#EXTINF:-1,Maghreb:Echourouk TV HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13425.ts
+#EXTINF:-1,Maghreb:Eladjwaa TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13405.ts
+#EXTINF:-1,Maghreb:Elbilad TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13415.ts
+#EXTINF:-1,Maghreb:Eldjuzairia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13409.ts
+#EXTINF:-1,Maghreb:Elfadjrtv DZ
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13400.ts
+#EXTINF:-1,Maghreb:Elhiwar Ettounsi
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13395.ts
+#EXTINF:-1,Maghreb:Ennahar TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13424.ts
+#EXTINF:-1,Maghreb:Haddef Algerie
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13398.ts
+#EXTINF:-1,Maghreb:Hannibal
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13390.ts
+#EXTINF:-1,Maghreb:Insen TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13386.ts
+#EXTINF:-1,Maghreb:KBC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13406.ts
+#EXTINF:-1,Maghreb:Libya 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13377.ts
+#EXTINF:-1,Maghreb:Libya 218
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13375.ts
+#EXTINF:-1,Maghreb:Libya 24
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13376.ts
+#EXTINF:-1,Maghreb:Libya Alahrar
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13379.ts
+#EXTINF:-1,Maghreb:Libya Alhadath
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13378.ts
+#EXTINF:-1,Maghreb:Libya Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13381.ts
+#EXTINF:-1,Maghreb:Libya News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13384.ts
+#EXTINF:-1,Maghreb:Libya Today
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13383.ts
+#EXTINF:-1,Maghreb:Medi1 TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13365.ts
+#EXTINF:-1,Maghreb:Mtunisia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13387.ts
+#EXTINF:-1,Maghreb:Nabd Syria TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13393.ts
+#EXTINF:-1,Maghreb:Nessma
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13391.ts
+#EXTINF:-1,Maghreb:Numidia News TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13417.ts
+#EXTINF:-1,Maghreb:Programme National
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13399.ts
+#EXTINF:-1,Maghreb:Samira
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13422.ts
+#EXTINF:-1,Maghreb:Tamazight
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13366.ts
+#EXTINF:-1,Maghreb:Tanasuh TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13385.ts
+#EXTINF:-1,Maghreb:Telemaroc
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13368.ts
+#EXTINF:-1,Maghreb:Tunisianat 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13397.ts
+#EXTINF:-1,Maghreb:Tunisianat 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13396.ts
+#EXTINF:-1,Maghreb:Tunisna TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13392.ts
+#EXTINF:-1,Maghreb:TV Coran
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13420.ts
+#EXTINF:-1,Maghreb:TV Tamazight
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13410.ts
+#EXTINF:-1,Maghreb:TV4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13408.ts
+#EXTINF:-1,Maghreb:Zaytouna TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13389.ts
+#EXTINF:-1,Sudan:Alhilal TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13445.ts
+#EXTINF:-1,Sudan:Almanal TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13443.ts
+#EXTINF:-1,Sudan:Ashorooq
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13444.ts
+#EXTINF:-1,Sudan:BNTV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13442.ts
+#EXTINF:-1,Sudan:Dabanga Sudan TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13439.ts
+#EXTINF:-1,Sudan:Kassala TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13440.ts
+#EXTINF:-1,Sudan:Khartoum TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13441.ts
+#EXTINF:-1,Sudan:Neelain Sport
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13427.ts
+#EXTINF:-1,Sudan:Omdorman
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13438.ts
+#EXTINF:-1,Sudan:Shamalia TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13434.ts
+#EXTINF:-1,Sudan:Ssbc
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13428.ts
+#EXTINF:-1,Sudan:Sudan
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/13435.ts
+#EXTINF:-1,bein3 backup1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5731.ts
+#EXTINF:-1,bein3 backup-2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5732.ts
+#EXTINF:-1,bein3 backup-3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5733.ts
+#EXTINF:-1,bein3 backup-4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5734.ts
+#EXTINF:-1,bein3 backup-5
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5735.ts
+#EXTINF:-1,bein3 backup-6
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5736.ts
+#EXTINF:-1,BeinSports1.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1952.ts
+#EXTINF:-1,BeinSports2.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1953.ts
+#EXTINF:-1,BeinSports3.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1954.ts
+#EXTINF:-1,BeinSports4.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1955.ts
+#EXTINF:-1,BeinSports5.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1956.ts
+#EXTINF:-1,BeinSports6.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1957.ts
+#EXTINF:-1,BeinSports7.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1958.ts
+#EXTINF:-1,BeinSports8.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1959.ts
+#EXTINF:-1,BeinSports9.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1960.ts
+#EXTINF:-1,BeinSportsNews.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1961.ts
+#EXTINF:-1,BeinSports1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/971.ts
+#EXTINF:-1,BeinSports2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/972.ts
+#EXTINF:-1,BeinSports3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/973.ts
+#EXTINF:-1,BeinSports4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/974.ts
+#EXTINF:-1,BeinSports5
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/975.ts
+#EXTINF:-1,BeinSports6
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/976.ts
+#EXTINF:-1,BeinSports7
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/977.ts
+#EXTINF:-1,BeinSports8
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/978.ts
+#EXTINF:-1,BeinSports9
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/979.ts
+#EXTINF:-1,BeinSports10
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/980.ts
+#EXTINF:-1,beinsports11
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/981.ts
+#EXTINF:-1,beinsports12
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/982.ts
+#EXTINF:-1,beinsports13
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/984.ts
+#EXTINF:-1,beinsports14
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/985.ts
+#EXTINF:-1,beinsports15
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/986.ts
+#EXTINF:-1,BeinSports.16
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1937.ts
+#EXTINF:-1,beINSPORTNews
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2878.ts
+#EXTINF:-1,ADSport1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2869.ts
+#EXTINF:-1,ADSport2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2870.ts
+#EXTINF:-1,ADSport3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2607.ts
+#EXTINF:-1,ADSport4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2608.ts
+#EXTINF:-1,ADSport5
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2609.ts
+#EXTINF:-1,ADSport6
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2610.ts
+#EXTINF:-1,OSn-WWE
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5668.ts
+#EXTINF:-1,Bein: BEIN JEEM TV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5700.ts
+#EXTINF:-1,bein: BARAEM
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5701.ts
+#EXTINF:-1,Bein:  FATAFEAT
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5699.ts
+#EXTINF:-1,primaFila-WWE
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5669.ts
+#EXTINF:-1,ALG-ALHaddaf
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2877.ts
+#EXTINF:-1,ENTV.programme national dz
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5297.ts
+#EXTINF:-1,ALG-Algeria
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1376.ts
+#EXTINF:-1,ALG-Algeria3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1362.ts
+#EXTINF:-1,ALG-EnnaharTvalg
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1828.ts
+#EXTINF:-1,ALG-Ennaharalgerielk
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1649.ts
+#EXTINF:-1,ALG-KBCAlgeria
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1835.ts
+#EXTINF:-1,ALG-DZAIRNEWS
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1421.ts
+#EXTINF:-1,ALG-ELBILAD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1884.ts
+#EXTINF:-1,ALG-Algeria4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1885.ts
+#EXTINF:-1,ALG-Echorouk.News
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1883.ts
+#EXTINF:-1,ALG-DzairTv
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1833.ts
+#EXTINF:-1,ALG-ELdjazairia
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1834.ts
+#EXTINF:-1,ALG-EchoroukTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1377.ts
+#EXTINF:-1,ALG-samiratv
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1401.ts
+#EXTINF:-1,BERBERE TELEVISION
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5298.ts
+#EXTINF:-1,BERBERE MUSIC
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5299.ts
+#EXTINF:-1,BERBERE JEUNESSE
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5300.ts
+#EXTINF:-1,AR-TunisieNATIONAL1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1413.ts
+#EXTINF:-1,AR-TunisieNATIONAL2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1414.ts
+#EXTINF:-1,AR-zaitouna
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1404.ts
+#EXTINF:-1,AR-Tunisna
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1418.ts
+#EXTINF:-1,AR-TELVZATV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1416.ts
+#EXTINF:-1,AR-NESSMA
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1415.ts
+#EXTINF:-1,AR-hanibal
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1411.ts
+#EXTINF:-1,AR-attassiatv
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1394.ts
+#EXTINF:-1,AR-AlHiwarEttounsi
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1409.ts
+#EXTINF:-1,AR-FIRST.TV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1410.ts
+#EXTINF:-1,AR-MTunisia
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1412.ts
+#EXTINF:-1,AR-ALJANOUBIA
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1407.ts
+#EXTINF:-1,AR-TNN
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1417.ts
+#EXTINF:-1,AR-2mMaroc
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1424.ts
+#EXTINF:-1,AR-Aloulamaroc
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1425.ts
+#EXTINF:-1,AR-Assadissa
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1426.ts
+#EXTINF:-1,AR-ALMAGHRIBIYA
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1962.ts
+#EXTINF:-1,AR-ARRABIAA
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1963.ts
+#EXTINF:-1,AR-aljazeera
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1378.ts
+#EXTINF:-1,AR-Almajd1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2031.ts
+#EXTINF:-1,AR-Aljazeera.Doc
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1746.ts
+#EXTINF:-1,AR-AD-Nat-Geo
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1368.ts
+#EXTINF:-1,AR-alarabiya
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1408.ts
+#EXTINF:-1,AR-AlarabiyaAhdas
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1402.ts
+#EXTINF:-1,AR-france24
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1642.ts
+#EXTINF:-1,AR-BBCar
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1641.ts
+#EXTINF:-1,AR-Toyor-jannah
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1646.ts
+#EXTINF:-1,AR-spacetoon
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1648.ts
+#EXTINF:-1,AR-CartoonNetwork
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1645.ts
+#EXTINF:-1,AR-Baraeem
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1647.ts
+#EXTINF:-1,AR-AbuDhabi
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1375.ts
+#EXTINF:-1,AR-AD-Drama
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1703.ts
+#EXTINF:-1,AR-MBC1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1379.ts
+#EXTINF:-1,AR-MBC-2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1380.ts
+#EXTINF:-1,AR-MBC3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1381.ts
+#EXTINF:-1,AR-MBC4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1382.ts
+#EXTINF:-1,AR-MBCAction
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1383.ts
+#EXTINF:-1,AR-MBC-Bollywood
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1384.ts
+#EXTINF:-1,AR-MBCMasr
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1386.ts
+#EXTINF:-1,AR-MBC-masr-2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1395.ts
+#EXTINF:-1,AR-MBCDrama
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1385.ts
+#EXTINF:-1,AR-MBCMax
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1387.ts
+#EXTINF:-1,AR-RotanaCinema
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1396.ts
+#EXTINF:-1,AR-RotanaAflam
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1398.ts
+#EXTINF:-1,AR_Rotana_Masriya
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1399.ts
+#EXTINF:-1,AR-Rotana
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1400.ts
+#EXTINF:-1,AR-RotanaClassic
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1397.ts
+#EXTINF:-1,AR-ZeeAlwan
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1423.ts
+#EXTINF:-1,AR-ZeeAflam
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1422.ts
+#EXTINF:-1,AR-SamaTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2629.ts
+#EXTINF:-1,AR-Albaghdadia
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2639.ts
+#EXTINF:-1,AR-PanoromaDRAMA2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2656.ts
+#EXTINF:-1,AR-PanoramaFilm
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2763.ts
+#EXTINF:-1,AR-SyriaDrama
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1745.ts
+#EXTINF:-1,AR-Syria.Aloula
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1754.ts
+#EXTINF:-1,AR-Rssalah
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1644.ts
+#EXTINF:-1,AR-StarCinema1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1403.ts
+#EXTINF:-1,AR-STARCINEMA2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1405.ts
+#EXTINF:-1,AR-TimeComedy
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1406.ts
+#EXTINF:-1,AR-Panoramadrama
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1763.ts
+#EXTINF:-1,AR-NileSport
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1702.ts
+#EXTINF:-1,AR-NileDrama
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1391.ts
+#EXTINF:-1,AR-NileComedy
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1390.ts
+#EXTINF:-1,AR-NileCinema
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1389.ts
+#EXTINF:-1,AR-NaharDrama
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1372.ts
+#EXTINF:-1,AR-LBC
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1643.ts
+#EXTINF:-1,AR-SkyNewsARAb
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1753.ts
+#EXTINF:-1,AR-ALhiwar
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1420.ts
+#EXTINF:-1,AR-Dream1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1831.ts
+#EXTINF:-1,AR-Dream2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1832.ts
+#EXTINF:-1,AR-Dubai-one
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1374.ts
+#EXTINF:-1,AR-CBCSofra
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1829.ts
+#EXTINF:-1,AR-CBCDrama
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1371.ts
+#EXTINF:-1,AR-CBC
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1369.ts
+#EXTINF:-1,AR-cbc2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1830.ts
+#EXTINF:-1,ON Sport
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3721.ts
+#EXTINF:-1,AR-AlNahar
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1419.ts
+#EXTINF:-1,AR-Alhayat2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1370.ts
+#EXTINF:-1,AR-ArtAflam1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1363.ts
+#EXTINF:-1,AR-ArtAflam2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1364.ts
+#EXTINF:-1,AR-ArtCinema
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1365.ts
+#EXTINF:-1,AR-ArtHekayat
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1366.ts
+#EXTINF:-1,VIP: Seevii Shamiya HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/4323.ts
+#EXTINF:-1,VIP: Seevii Drama HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/4326.ts
+#EXTINF:-1,VIP: Seevii Beelink HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/4325.ts
+#EXTINF:-1,VIP: Seevii Alola HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/4324.ts
+#EXTINF:-1,Bein -Series1.hd
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/4336.ts
+#EXTINF:-1,AR-Bein-Movies1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1866.ts
+#EXTINF:-1,AR-Bein-Movies2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1867.ts
+#EXTINF:-1,AR-Bein-Movies3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1942.ts
+#EXTINF:-1,AR-BEIN-MOVIES4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2032.ts
+#EXTINF:-1,AR-OSN-BoxOffice1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1853.ts
+#EXTINF:-1,AR-OSN-BoxOffice2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1852.ts
+#EXTINF:-1,AR-OSN-BoxOffice3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1851.ts
+#EXTINF:-1,AR-OSN-Cinema1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1863.ts
+#EXTINF:-1,AR-OSN-Cinema2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1862.ts
+#EXTINF:-1,AR-OSN-YA-Hala-Cinema
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1978.ts
+#EXTINF:-1,AR-OSN-YH-Shabab-HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1836.ts
+#EXTINF:-1,AR-OSN-Ya-Hala-Drama-HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1837.ts
+#EXTINF:-1,AR-OSN-Ya-Hala
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1838.ts
+#EXTINF:-1,AR-OSN-Movies-HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1847.ts
+#EXTINF:-1,AR-OSN-Movies-2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5242.ts
+#EXTINF:-1,AR-OSN-Movies-ActionHD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1855.ts
+#EXTINF:-1,AR-OSN-Movies Action2HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1856.ts
+#EXTINF:-1,AR-OSN-Movies-Premiere-HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1844.ts
+#EXTINF:-1,AR-OSN-Movies-Premiere2-HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5241.ts
+#EXTINF:-1,AR-OSN-FirstComedyHD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3704.ts
+#EXTINF:-1,AR-OSN-MoviesDrama
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1849.ts
+#EXTINF:-1,AR-ON-Demande
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1865.ts
+#EXTINF:-1,AR-OSN-MoviesComedy
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1850.ts
+#EXTINF:-1,AR-OsnMoviesKids
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1845.ts
+#EXTINF:-1,AR-OSN-Movies-Festival
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1848.ts
+#EXTINF:-1,AR-OSN-Discovery
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1861.ts
+#EXTINF:-1,AR-OSN-DiscoveryScienceHD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1860.ts
+#EXTINF:-1,AR-OSN-NatGeoWild
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3702.ts
+#EXTINF:-1,AR-OSN-NatGeoHD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1843.ts
+#EXTINF:-1,AR-OSN-NatGeoPeople
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3701.ts
+#EXTINF:-1,AR-OSN-AnimalPlanetHD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1864.ts
+#EXTINF:-1,AR-OSN-History
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3699.ts
+#EXTINF:-1,AR-OSN-First HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3705.ts
+#EXTINF:-1,AR-OSN-StarMovie-HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1840.ts
+#EXTINF:-1,AR-OSN-Starworld
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1839.ts
+#EXTINF:-1,AR-OSN-StarGold-HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1841.ts
+#EXTINF:-1,AR-DubaiSport1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1367.ts
+#EXTINF:-1,AR-DubaiRacing2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1373.ts
+#EXTINF:-1,AR-DubaiRacing3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1361.ts
+#EXTINF:-1,AR-DhabiSports3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1360.ts
+#EXTINF:-1,AR-DubaiSport4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1701.ts
+#EXTINF:-1,AR-KuwaitSport
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2844.ts
+#EXTINF:-1,AR-KuwaitSportPlus
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2843.ts
+#EXTINF:-1,AR-BahrainSport1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2791.ts
+#EXTINF:-1,AR-BahrainSport2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2789.ts
+#EXTINF:-1,AR-SaudiSport
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2847.ts
+#EXTINF:-1,AR-Almajd3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2755.ts
+#EXTINF:-1,AR-Almajd4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2754.ts
+#EXTINF:-1,AR-ALmajd08
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2753.ts
+#EXTINF:-1,AR-Quran
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2759.ts
+#EXTINF:-1,AR-Iqraa
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2758.ts
+#EXTINF:-1,AR-TVCoran
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2751.ts
+#EXTINF:-1,AR-BinOthaimeen
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2831.ts
+#EXTINF:-1,AR-ToyorBaby
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2665.ts
+#EXTINF:-1,AR-Karameesh
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2671.ts
+#EXTINF:-1,AR-Jeem
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2672.ts
+#EXTINF:-1,AR-TVTamazight
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2802.ts
+#EXTINF:-1,AR-Tamazight
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2804.ts
+#EXTINF:-1,ALG-EchouroukBenna
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2643.ts
+#EXTINF:-1,AR-Libya24
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2809.ts
+#EXTINF:-1,AR-CbcExtra
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2647.ts
+#EXTINF:-1,AR-MelodyClassic
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2710.ts
+#EXTINF:-1,AR-CairoOne
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2815.ts
+#EXTINF:-1,AR-Ten
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2645.ts
+#EXTINF:-1,AR-CairoDrama
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2764.ts
+#EXTINF:-1,AR-CairoCinema
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2765.ts
+#EXTINF:-1,AR-CairoUniversity
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2820.ts
+#EXTINF:-1,AR-NileLife
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2766.ts
+#EXTINF:-1,AR-NileNews
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2714.ts
+#EXTINF:-1,AR-NileCulture
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2767.ts
+#EXTINF:-1,AR-NileFamily
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2768.ts
+#EXTINF:-1,AR-Ldc
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2624.ts
+#EXTINF:-1,AR-CimaFartaka
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2864.ts
+#EXTINF:-1,AR-CimaAlibaba
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2814.ts
+#EXTINF:-1,AR-Cima
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2865.ts
+#EXTINF:-1,AR-Heyatv
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2626.ts
+#EXTINF:-1,AR-HayatMousalsalet
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2646.ts
+#EXTINF:-1,AR-ToktokAflam
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2862.ts
+#EXTINF:-1,AR-AlnaharDrama
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2650.ts
+#EXTINF:-1,AR-AlhayatTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2716.ts
+#EXTINF:-1,AR-NeelainSport
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2849.ts
+#EXTINF:-1,AR-NaharNour
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2739.ts
+#EXTINF:-1,AR-ADAlemarat
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2632.ts
+#EXTINF:-1,AR-DubaiZaman
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2635.ts
+#EXTINF:-1,AR-DubaiAloula
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2633.ts
+#EXTINF:-1,AR-SamaDubai
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2636.ts
+#EXTINF:-1,AR-NoorDubai
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2748.ts
+#EXTINF:-1,AR-Funoon
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2688.ts
+#EXTINF:-1,AR-ALsharjah
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2749.ts
+#EXTINF:-1,AR-BahrainQuran
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2798.ts
+#EXTINF:-1,AR-BahrainTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2795.ts
+#EXTINF:-1,AR-Bahrain55
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2800.ts
+#EXTINF:-1,AR-KuwaitTV1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2695.ts
+#EXTINF:-1,AR-KuwaitTV2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2694.ts
+#EXTINF:-1,AR-KuwaitPlus
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2693.ts
+#EXTINF:-1,AR-Saudi1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2687.ts
+#EXTINF:-1,AR-Saudi2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2686.ts
+#EXTINF:-1,AR-QatarTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2653.ts
+#EXTINF:-1,AR-IraqTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2717.ts
+#EXTINF:-1,AR-Aliraqia1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2638.ts
+#EXTINF:-1,AR-IraqiaSport
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2846.ts
+#EXTINF:-1,AR-Jordan
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2685.ts
+#EXTINF:-1,AR-JordanSport
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2776.ts
+#EXTINF:-1,AR-SyriaTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2630.ts
+#EXTINF:-1,AR-SyriaEducation
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2733.ts
+#EXTINF:-1,AR-SyriaNews
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2807.ts
+#EXTINF:-1,AR-NBN
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2625.ts
+#EXTINF:-1,AR-Futuretv
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2621.ts
+#EXTINF:-1,AR-Aljadeed
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2623.ts
+#EXTINF:-1,AR-Lebanontv
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2622.ts
+#EXTINF:-1,AR-PalestineLive
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2675.ts
+#EXTINF:-1,AR-ALresala
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2752.ts
+#EXTINF:-1,AR-ALrahma
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2750.ts
+#EXTINF:-1,AR-PalestineNews
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2677.ts
+#EXTINF:-1,AR-PalestineSport
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2679.ts
+#EXTINF:-1,AR-Teleliban
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2620.ts
+#EXTINF:-1,AR-Sunnah
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2757.ts
+#EXTINF:-1,AR-Sudan
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2793.ts
+#EXTINF:-1,AR-ZeeLiving
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2661.ts
+#EXTINF:-1,AR-B4uPlus
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2663.ts
+#EXTINF:-1,AR-B4uAflam
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2662.ts
+#EXTINF:-1,AR-ALjazeeraMubasher
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2732.ts
+#EXTINF:-1,AR-TRTTurkia
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2658.ts
+#EXTINF:-1,AR-DWArabia
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2728.ts
+#EXTINF:-1,AR-Euronewsarabic
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2727.ts
+#EXTINF:-1,AR-ALekhbaria
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2722.ts
+#EXTINF:-1,AR-RT Arab
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2731.ts
+#EXTINF:-1,AR-Almanar
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2627.ts
+#EXTINF:-1,AR-CnbcArabiya
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2711.ts
+#EXTINF:-1,AR-MTVLebanon
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2628.ts
+#EXTINF:-1,AR-Medi1tv
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2803.ts
+#EXTINF:-1,AR-Massaya
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2660.ts
+#EXTINF:-1,AR-OnTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2720.ts
+#EXTINF:-1,AR-OnSpor
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2719.ts
+#EXTINF:-1,AR-ZweinaBeladna
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2828.ts
+#EXTINF:-1,AR-ZadTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2655.ts
+#EXTINF:-1,AR-WatanTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2829.ts
+#EXTINF:-1,AR-TaybaTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2774.ts
+#EXTINF:-1,AR-SehatyChannel
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2640.ts
+#EXTINF:-1,AR-HareemElsultan
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2760.ts
+#EXTINF:-1,AR-HalabaTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2850.ts
+#EXTINF:-1,AR-HadraMoutChannel
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2657.ts
+#EXTINF:-1,AR-GearOne
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2823.ts
+#EXTINF:-1,AR-DijlahTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2641.ts
+#EXTINF:-1,AR-City7TV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2659.ts
+#EXTINF:-1,ALG-BzafTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2680.ts
+#EXTINF:-1,AR-Alrasheed
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2642.ts
+#EXTINF:-1,AR-Alrai
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2652.ts
+#EXTINF:-1,AR-ALOulaIntplus
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2805.ts
+#EXTINF:-1,AR-ALmustakila
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2712.ts
+#EXTINF:-1,AR-AlmasTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2634.ts
+#EXTINF:-1,AR-Almada
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2644.ts
+#EXTINF:-1,AR-Almaaref
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2682.ts
+#EXTINF:-1,AR-AlkaheraWalnas
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2651.ts
+#EXTINF:-1,AR-ALfath
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2740.ts
+#EXTINF:-1,AR-Aldafrah
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2637.ts
+#EXTINF:-1,AR-Alaraby
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2654.ts
+#EXTINF:-1,AR-AjyalTV
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2866.ts
+#EXTINF:-1,AR-OSN-Fann
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1859.ts
+#EXTINF:-1,BEIN SPORTS 10
+http://163.172.210.207:8000/live/freeworldwideiptv.com/PremiumBeinSport/38.ts
+#EXTINF:-1,BEIN SPORTS 9
+http://163.172.210.207:8000/live/freeworldwideiptv.com/PremiumBeinSport/37.ts
+#EXTINF:-1,BEIN SPORTS 8
+http://163.172.210.207:8000/live/freeworldwideiptv.com/PremiumBeinSport/36.ts
+#EXTINF:-1,BEIN SPORTS 7
+http://163.172.210.207:8000/live/freeworldwideiptv.com/PremiumBeinSport/35.ts
+#EXTINF:-1,BEIN SPORTS 6
+http://163.172.210.207:8000/live/freeworldwideiptv.com/PremiumBeinSport/34.ts
+#EXTINF:-1,BEIN SPORTS 5
+http://163.172.210.207:8000/live/freeworldwideiptv.com/PremiumBeinSport/40.ts
+#EXTINF:-1,BEIN SPORTS 4
+http://163.172.210.207:8000/live/freeworldwideiptv.com/PremiumBeinSport/33.ts
+#EXTINF:-1,BEIN SPORTS 3
+http://163.172.210.207:8000/live/freeworldwideiptv.com/PremiumBeinSport/32.ts
+#EXTINF:-1,BEIN SPORTS 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/PremiumBeinSport/31.ts
+#EXTINF:-1,BEIN SPORTS 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/PremiumBeinSport/30.ts
+#EXTINF:-1,AR | 2M MAROC
+http://1.panel3.us/live/t2/t2/9088.ts
+#EXTINF:-1,AR | AL ARABIYA
+http://1.panel3.us/live/t2/t2/9080.ts
+#EXTINF:-1,AR | AL JAZEERA
+http://1.panel3.us/live/t2/t2/9097.ts
+#EXTINF:-1,AR | AL JAZEERA DOCU
+http://1.panel3.us/live/t2/t2/9098.ts
+#EXTINF:-1,AR | ART CINEMA
+http://1.panel3.us/live/t2/t2/9078.ts
+#EXTINF:-1,AR | Baghdad TV
+http://1.panel3.us/live/t2/t2/9099.ts
+#EXTINF:-1,AR | BEIN MOVIES 2 HD
+http://1.panel3.us/live/t2/t2/9081.ts
+#EXTINF:-1,AR | DUBAI ONE
+http://1.panel3.us/live/t2/t2/9079.ts
+#EXTINF:-1,AR | DUBAI TV
+http://1.panel3.us/live/t2/t2/9091.ts
+#EXTINF:-1,AR | LBC INT
+http://1.panel3.us/live/t2/t2/9077.ts
+#EXTINF:-1,AR | MBC 1
+http://1.panel3.us/live/t2/t2/9092.ts
+#EXTINF:-1,AR | MBC 2
+http://1.panel3.us/live/t2/t2/9093.ts
+#EXTINF:-1,AR | MBC 3
+http://1.panel3.us/live/t2/t2/9094.ts
+#EXTINF:-1,AR | MBC 4
+http://1.panel3.us/live/t2/t2/9095.ts
+#EXTINF:-1,AR | MBC ACTION
+http://1.panel3.us/live/t2/t2/9096.ts
+#EXTINF:-1,AR | MBC MAX
+http://1.panel3.us/live/t2/t2/9100.ts
+#EXTINF:-1,AR | NESSMA TV
+http://1.panel3.us/live/t2/t2/9101.ts
+#EXTINF:-1,AR | NOOR DUBAI
+http://1.panel3.us/live/t2/t2/9083.ts
+#EXTINF:-1,AR | O TV
+http://1.panel3.us/live/t2/t2/9084.ts
+#EXTINF:-1,AR | OSN MOVIE HD
+http://1.panel3.us/live/t2/t2/9064.ts
+#EXTINF:-1,AR | OSN Movies Action 2 HD
+http://1.panel3.us/live/t2/t2/9066.ts
+#EXTINF:-1,AR | OSN Movies Action HD
+http://1.panel3.us/live/t2/t2/9065.ts
+#EXTINF:-1,AR | OSN Movies Box Office 1HD
+http://1.panel3.us/live/t2/t2/9067.ts
+#EXTINF:-1,AR | OSN Movies Box Office 2HD
+http://1.panel3.us/live/t2/t2/9068.ts
+#EXTINF:-1,AR | OSN Movies Box Office 3HD
+http://1.panel3.us/live/t2/t2/9069.ts
+#EXTINF:-1,AR | OSN Movies Comedy HD
+http://1.panel3.us/live/t2/t2/9070.ts
+#EXTINF:-1,AR | OSN Movies Comedy Plus2 HD
+http://1.panel3.us/live/t2/t2/9071.ts
+#EXTINF:-1,AR | OSN Movies Festival HD
+http://1.panel3.us/live/t2/t2/9072.ts
+#EXTINF:-1,AR | OSN Movies Kids HD
+http://1.panel3.us/live/t2/t2/9073.ts
+#EXTINF:-1,AR | OSN ON DEMAND 1HD
+http://1.panel3.us/live/t2/t2/9074.ts
+#EXTINF:-1,AR | OSN ON DEMAND 2HD
+http://1.panel3.us/live/t2/t2/9075.ts
+#EXTINF:-1,AR | OSN STAR MOVIES HD
+http://1.panel3.us/live/t2/t2/9076.ts
+#EXTINF:-1,AR | ROTANA AFLAM
+http://1.panel3.us/live/t2/t2/9082.ts
+#EXTINF:-1,AR | ROTANA CINEMA
+http://1.panel3.us/live/t2/t2/9090.ts
+#EXTINF:-1,AR | ROTANA CLIP
+http://1.panel3.us/live/t2/t2/9089.ts
+#EXTINF:-1,AR | ROTANA KHALIJIAH
+http://1.panel3.us/live/t2/t2/9085.ts
+#EXTINF:-1,AR | ROTANA MASRIYA
+http://1.panel3.us/live/t2/t2/9087.ts
+#EXTINF:-1,AR | SAMA DUBAI
+http://1.panel3.us/live/t2/t2/9102.ts
+#EXTINF:-1,AR | SHARJAH
+http://1.panel3.us/live/t2/t2/9086.ts
+#EXTINF:-1,AR|BEIN 1 HD
+http://1.panel3.us/live/t2/t2/9169.ts
+#EXTINF:-1,AR|BEIN 2 HD
+http://1.panel3.us/live/t2/t2/9168.ts
+#EXTINF:-1,AR|BEIN 3 HD
+http://1.panel3.us/live/t2/t2/9167.ts
+#EXTINF:-1,AR|BEIN 4 HD
+http://1.panel3.us/live/t2/t2/9166.ts
+#EXTINF:-1,AR|BEIN 5 HD
+http://1.panel3.us/live/t2/t2/9165.ts
+#EXTINF:-1,AR|BEIN 6 HD
+http://1.panel3.us/live/t2/t2/9164.ts
+#EXTINF:-1,AR|BEIN 7 HD
+http://1.panel3.us/live/t2/t2/9163.ts
+#EXTINF:-1,AR|BEIN 8 HD
+http://1.panel3.us/live/t2/t2/9162.ts
+#EXTINF:-1,AR|BEIN 9 HD
+http://1.panel3.us/live/t2/t2/9161.ts
+#EXTINF:-1,AR|BEIN 10 HD
+http://1.panel3.us/live/t2/t2/9160.ts
